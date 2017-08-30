@@ -1,0 +1,19 @@
+G04 EasyPC Gerber Version 20.0.2 Build 4112 *
+G04 #@! TF.Part,Single*
+G04 #@! TF.FileFunction,Soldermask,Bot *
+%FSLAX25Y25*%
+%MOIN*%
+G04 #@! TA.AperFunction,WasherPad*
+%ADD26C,0.07000*%
+%ADD25C,0.09700*%
+X0Y0D02*
+D02*
+D25*
+X31500Y33050D03*
+D02*
+D26*
+X10100Y16550D03*
+X31500Y57850D03*
+X53100Y16650D03*
+X0Y0D02*
+M02*

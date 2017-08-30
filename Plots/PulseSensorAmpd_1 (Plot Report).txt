@@ -1,0 +1,224 @@
+Plot Report
+-----------
+
+Report Written:     Wednesday, August 30, 2017
+Design Path:        C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\PulseSensorAmpd_1.pcb
+Design Title:       
+Created:            3/5/2012 9:07:17 PM
+Last Saved:         7/27/2016 4:09:04 PM
+Editing Time:       6760 min
+Units:              thou (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\Plots\PulseSensorAmpd_1 - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D12    Rectangle 39.40 X 43.30
+    D13    Rectangle 39.37 X 59.06  Rotation 90
+    D14    Rectangle 39.37 X 42.91
+    D15    Rectangle 39.40 X 43.30  Rotation 90
+    D16    Rectangle 50.00 X 80.00
+    D17    Rectangle 39.37 X 42.91  Rotation 90
+    D18    Rectangle 22.00 X 52.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\Plots\PulseSensorAmpd_1 - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D19    Round 8.00
+    D70    Round 3.00
+    D71    Round 6.00
+
+Gerber Output
+=============
+
+C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\Plots\PulseSensorAmpd_1 - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D12    Rectangle 39.40 X 43.30
+    D13    Rectangle 39.37 X 59.06  Rotation 90
+    D14    Rectangle 39.37 X 42.91
+    D15    Rectangle 39.40 X 43.30  Rotation 90
+    D16    Rectangle 50.00 X 80.00
+    D17    Rectangle 39.37 X 42.91  Rotation 90
+    D18    Rectangle 22.00 X 52.00  Rotation 90
+    D20    Round 87.00
+    D21    Round 60.00
+    D22    Round 48.00
+    D23    Round 15.00
+    D24    Round 25.00
+
+Gerber Output
+=============
+
+C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\Plots\PulseSensorAmpd_1 - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D25    Round 97.00
+    D26    Round 70.00
+    D27    Rectangle 49.40 X 53.30
+    D28    Rectangle 49.37 X 69.06  Rotation 90
+    D29    Rectangle 49.37 X 52.91
+    D72    Rectangle 49.40 X 53.30  Rotation 90
+    D73    Rectangle 60.00 X 90.00
+    D74    Rectangle 49.37 X 52.91  Rotation 90
+    D75    Rectangle 32.00 X 62.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\Plots\PulseSensorAmpd_1 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D20    Round 87.00
+    D21    Round 60.00
+    D22    Round 48.00
+    D23    Round 15.00
+    D24    Round 25.00
+
+Gerber Output
+=============
+
+C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\Plots\PulseSensorAmpd_1 - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D25    Round 97.00
+    D26    Round 70.00
+
+NC Drill Output
+===============
+
+C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\Plots\PulseSensorAmpd_1 - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02400 in 9     G
+    T002  000.03500 in 3     A
+    T003  000.08500 in 1     F
+    ------------------------------------
+    Total              13
+    ------------------------------------
+
+C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\Plots\PulseSensorAmpd_1 - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\Plots\PulseSensorAmpd_1 - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    35    Y      100  Round A
+    85    Y      100  Round F
+    24    Y      100  Round G
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 100.00
+    D11    Round 5.00
+
+Gerber Output
+=============
+
+C:\Users\murf\Downloads\PulseSensorAmped Hardware\PulseSensorAmped Hardware\Plots\PulseSensorAmpd_1 - Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+
+End Of Report.
