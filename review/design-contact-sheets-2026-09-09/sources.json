@@ -1,0 +1,808 @@
+{
+  "classification": "DEVELOPMENT / visual review only",
+  "render_method": "Pillow contain resize and neutral padding; no crop, recoloring, redrawing or board editing",
+  "source_repositories": "WorldFamousElectronics/PulseSensorAmped_Hardware",
+  "submitted_zip_sha256": "0afda167b52ab0b0251cf22f91fd92fefa5dcf5e74f67b36446e7ec775acf792",
+  "designs": [
+    {
+      "number": 1,
+      "title": "Submitted PCBWay baseline \u00b7 RC3 B",
+      "root": "/Users/PulsesensorCorp/.codex/worktrees/2f83/PulseSensor Amped Hardware",
+      "front": "PulseSensor-Amped-Rebuild/output/pcbway-release-candidates-RC3-R1-FINAL/PulseSensor-Amped-B-PCBWay-EVT-RC3-R1-FINAL/REVIEW/PulseSensor-Amped-B-3D-B.png",
+      "back": "PulseSensor-Amped-Rebuild/output/pcbway-release-candidates-RC3-R1-FINAL/PulseSensor-Amped-B-PCBWay-EVT-RC3-R1-FINAL/REVIEW/PulseSensor-Amped-B-3D-F.png",
+      "native": "PulseSensor-Amped-Rebuild/output/pcbway-release-candidates-RC3-R1-FINAL/PulseSensor-Amped-B-PCBWay-EVT-RC3-R1-FINAL/SOURCE_SUPPORT/PulseSensor-Amped-B-JST.kicad_pcb",
+      "note": "Submitted ZIP hash verified; CAD render, not an as-built photograph",
+      "source_checkout_commit": "b9e104b633a740c1932ddd645a1ec3bc9c7b3742",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/2f83/PulseSensor Amped Hardware/PulseSensor-Amped-Rebuild/output/pcbway-release-candidates-RC3-R1-FINAL/PulseSensor-Amped-B-PCBWay-EVT-RC3-R1-FINAL/REVIEW/PulseSensor-Amped-B-3D-B.png",
+          "repo_relative_path": "PulseSensor-Amped-Rebuild/output/pcbway-release-candidates-RC3-R1-FINAL/PulseSensor-Amped-B-PCBWay-EVT-RC3-R1-FINAL/REVIEW/PulseSensor-Amped-B-3D-B.png",
+          "sha256": "dee0778498d1b86f96cd29d290fcc66aecdf65957bf4ecd3bcc0a11e85faf82b",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": false
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/2f83/PulseSensor Amped Hardware/PulseSensor-Amped-Rebuild/output/pcbway-release-candidates-RC3-R1-FINAL/PulseSensor-Amped-B-PCBWay-EVT-RC3-R1-FINAL/REVIEW/PulseSensor-Amped-B-3D-F.png",
+          "repo_relative_path": "PulseSensor-Amped-Rebuild/output/pcbway-release-candidates-RC3-R1-FINAL/PulseSensor-Amped-B-PCBWay-EVT-RC3-R1-FINAL/REVIEW/PulseSensor-Amped-B-3D-F.png",
+          "sha256": "41fc9a7c68f00730309133cac652763bba4c08793c84e9ae41e7d057fe76510d",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": false
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/2f83/PulseSensor Amped Hardware/PulseSensor-Amped-Rebuild/output/pcbway-release-candidates-RC3-R1-FINAL/PulseSensor-Amped-B-PCBWay-EVT-RC3-R1-FINAL/SOURCE_SUPPORT/PulseSensor-Amped-B-JST.kicad_pcb",
+          "repo_relative_path": "PulseSensor-Amped-Rebuild/output/pcbway-release-candidates-RC3-R1-FINAL/PulseSensor-Amped-B-PCBWay-EVT-RC3-R1-FINAL/SOURCE_SUPPORT/PulseSensor-Amped-B-JST.kicad_pcb",
+          "sha256": "b439dcff82c4553731ac35ebcd27276899f8dfbbfcd35f2351d8101497eb4ad4",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": false
+        }
+      }
+    },
+    {
+      "number": 2,
+      "title": "Textbook overlay",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Textbook-Overlay-Variant/renders/front.png",
+      "back": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Textbook-Overlay-Variant/renders/back.png",
+      "native": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Textbook-Overlay-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Textbook_Overlay_Variant.kicad_pcb",
+      "note": "Earlier DEVELOPMENT reference; not the submitted RC3 board",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Textbook-Overlay-Variant/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Textbook-Overlay-Variant/renders/front.png",
+          "sha256": "cad192f4e1e195fb21849d3092fef91f39d1ad698b91e3d1c020346d8856bf25",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Textbook-Overlay-Variant/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Textbook-Overlay-Variant/renders/back.png",
+          "sha256": "980b4b8294b4edb7b4fe6cd89a2556a4e72748c560f2889b1ddf404531e61c85",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Textbook-Overlay-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Textbook_Overlay_Variant.kicad_pcb",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Textbook-Overlay-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Textbook_Overlay_Variant.kicad_pcb",
+          "sha256": "12c70d22d1dd4fe1f80a398177e99c1e5415decdfafb0048ab048e90095d4578",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 3,
+      "title": "Counterclockwise perimeter overlay",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/design-contact-sheets-2026-09-09/rendered-missing-views/03-front.png",
+      "back": "PCBWay-Fresh-Spin-2026-07-31-Isolated/Review/CCW_Overlay_3D_bottom.png",
+      "native": "PCBWay-Fresh-Spin-2026-07-31-Isolated/02-counterclockwise-overlay/PulseSensorAmped_Fresh_CCW_Overlay.kicad_pcb",
+      "note": "Existing native design; missing face views rendered with KiCad, source unchanged",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/design-contact-sheets-2026-09-09/rendered-missing-views/03-front.png",
+          "repo_relative_path": "review/design-contact-sheets-2026-09-09/rendered-missing-views/03-front.png",
+          "sha256": "93bedde71e3473551df4d70fcbb035babad37ca675fb370621b235f7f3bd7516",
+          "git_status": "?? review/design-contact-sheets-2026-09-09/rendered-missing-views/03-front.png",
+          "tracked": false
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/PCBWay-Fresh-Spin-2026-07-31-Isolated/Review/CCW_Overlay_3D_bottom.png",
+          "repo_relative_path": "PCBWay-Fresh-Spin-2026-07-31-Isolated/Review/CCW_Overlay_3D_bottom.png",
+          "sha256": "6984348086b3836d938eb0bf99c2caac5a044c547dd221269dc9576b657086c3",
+          "git_status": "?? PCBWay-Fresh-Spin-2026-07-31-Isolated/Review/CCW_Overlay_3D_bottom.png",
+          "tracked": false
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/PCBWay-Fresh-Spin-2026-07-31-Isolated/02-counterclockwise-overlay/PulseSensorAmped_Fresh_CCW_Overlay.kicad_pcb",
+          "repo_relative_path": "PCBWay-Fresh-Spin-2026-07-31-Isolated/02-counterclockwise-overlay/PulseSensorAmped_Fresh_CCW_Overlay.kicad_pcb",
+          "sha256": "05331f3780e696fc1f5334ccd935b063e10779d51bf2278a85880855d69a60a9",
+          "git_status": "?? PCBWay-Fresh-Spin-2026-07-31-Isolated/02-counterclockwise-overlay/PulseSensorAmped_Fresh_CCW_Overlay.kicad_pcb",
+          "tracked": false
+        }
+      }
+    },
+    {
+      "number": 4,
+      "title": "DesignSpark remake",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "KiCad-DesignSpark-Remake/Review/PulseSensorAmped_DesignSpark_Remake_3d_front.png",
+      "back": "KiCad-DesignSpark-Remake/Review/PulseSensorAmped_DesignSpark_Remake_3d_back.png",
+      "native": "KiCad-DesignSpark-Remake/PulseSensorAmped_DesignSpark_Remake.kicad_pcb",
+      "note": "Earlier DEVELOPMENT reference; missing views are not substituted",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/KiCad-DesignSpark-Remake/Review/PulseSensorAmped_DesignSpark_Remake_3d_front.png",
+          "repo_relative_path": "KiCad-DesignSpark-Remake/Review/PulseSensorAmped_DesignSpark_Remake_3d_front.png",
+          "sha256": "cce405552b5955b9c79ea6bf42986d592e86629fe1b3b9b3de114e2122186978",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/KiCad-DesignSpark-Remake/Review/PulseSensorAmped_DesignSpark_Remake_3d_back.png",
+          "repo_relative_path": "KiCad-DesignSpark-Remake/Review/PulseSensorAmped_DesignSpark_Remake_3d_back.png",
+          "sha256": "9c1d30fb490e7b5f36796be77e544b2fae8189df05a9738c8cba5fb47606ad64",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/KiCad-DesignSpark-Remake/PulseSensorAmped_DesignSpark_Remake.kicad_pcb",
+          "repo_relative_path": "KiCad-DesignSpark-Remake/PulseSensorAmped_DesignSpark_Remake.kicad_pcb",
+          "sha256": "2cd4c893b7884066831ebc521db727baaccc97e822e0eac33b5a33873fc3296b",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 5,
+      "title": "Original JST-SH",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/design-contact-sheets-2026-09-09/rendered-missing-views/05-front.png",
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/design-contact-sheets-2026-09-09/rendered-missing-views/05-back.png",
+      "native": "KiCad-Original-JSTSH/PulseSensorAmped_Original_JSTSH.kicad_pcb",
+      "note": "Fresh native bare-board views; component models absent in this source",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/design-contact-sheets-2026-09-09/rendered-missing-views/05-front.png",
+          "repo_relative_path": "review/design-contact-sheets-2026-09-09/rendered-missing-views/05-front.png",
+          "sha256": "8c336049363a094b12acba16717bdc2f2e141348dd4f316e8947725a13ff6a24",
+          "git_status": "?? review/design-contact-sheets-2026-09-09/rendered-missing-views/05-front.png",
+          "tracked": false
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/design-contact-sheets-2026-09-09/rendered-missing-views/05-back.png",
+          "repo_relative_path": "review/design-contact-sheets-2026-09-09/rendered-missing-views/05-back.png",
+          "sha256": "d96174113aa400c0ab8ad57642ae4b8d60803ac3f9c2ef57375ef0f7c4d14b6d",
+          "git_status": "?? review/design-contact-sheets-2026-09-09/rendered-missing-views/05-back.png",
+          "tracked": false
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/KiCad-Original-JSTSH/PulseSensorAmped_Original_JSTSH.kicad_pcb",
+          "repo_relative_path": "KiCad-Original-JSTSH/PulseSensorAmped_Original_JSTSH.kicad_pcb",
+          "sha256": "c7242143e5f62507674ea9fffa6a45384568a9ff7a856c8b768298fe28ad690c",
+          "git_status": "M KiCad-Original-JSTSH/PulseSensorAmped_Original_JSTSH.kicad_pcb",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 6,
+      "title": "Original JST-SH \u00b7 16 mm inboard",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/design-contact-sheets-2026-09-09/rendered-missing-views/06-front.png",
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/design-contact-sheets-2026-09-09/rendered-missing-views/06-back.png",
+      "native": "KiCad-Original-JSTSH-16mm-inboard/PulseSensorAmped_Original_JSTSH_16mm_inboard.kicad_pcb",
+      "note": "Fresh native face views; incomplete model coverage (optical sensor not shown)",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/design-contact-sheets-2026-09-09/rendered-missing-views/06-front.png",
+          "repo_relative_path": "review/design-contact-sheets-2026-09-09/rendered-missing-views/06-front.png",
+          "sha256": "e2f48cbabba2042e84a7635d8c80e606406a018fa1fd090b6ef8a473e73102b6",
+          "git_status": "?? review/design-contact-sheets-2026-09-09/rendered-missing-views/06-front.png",
+          "tracked": false
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/design-contact-sheets-2026-09-09/rendered-missing-views/06-back.png",
+          "repo_relative_path": "review/design-contact-sheets-2026-09-09/rendered-missing-views/06-back.png",
+          "sha256": "a5ccb814fef0b98e7fd782b6f77090560a208d113edd79bf1c78c538ae6984ad",
+          "git_status": "?? review/design-contact-sheets-2026-09-09/rendered-missing-views/06-back.png",
+          "tracked": false
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/KiCad-Original-JSTSH-16mm-inboard/PulseSensorAmped_Original_JSTSH_16mm_inboard.kicad_pcb",
+          "repo_relative_path": "KiCad-Original-JSTSH-16mm-inboard/PulseSensorAmped_Original_JSTSH_16mm_inboard.kicad_pcb",
+          "sha256": "da4c5b92595f3a5dae88d98d49cf19f2c95ce9e6e031bd952743f5d9dfdc8c94",
+          "git_status": "M KiCad-Original-JSTSH-16mm-inboard/PulseSensorAmped_Original_JSTSH_16mm_inboard.kicad_pcb",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 7,
+      "title": "Public cable preview",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/KiCad-Public-3D-View/renders/front.png",
+      "back": "Public-Online-Audit/KiCad-Public-3D-View/renders/back.png",
+      "native": "Public-Online-Audit/KiCad-Public-3D-View/PulseSensorAmped_Public_Online_3D_View.kicad_pcb",
+      "note": "Earlier DEVELOPMENT reference; not the submitted RC3 board",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View/renders/front.png",
+          "sha256": "92c4b656cab8b553abf844515f8eb58522a4add1af97b90bfb2b0b43ae4c5c9f",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View/renders/back.png",
+          "sha256": "af35f742d3b75f9bcde0fb995ae1db6234fa77d05cf540d5dedcc6545f34228b",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View/PulseSensorAmped_Public_Online_3D_View.kicad_pcb",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View/PulseSensorAmped_Public_Online_3D_View.kicad_pcb",
+          "sha256": "d6b9b9f0982d9c5d38b1c3d01687e2842409fa487345ab1133b3826be94292d0",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 8,
+      "title": "Public JST-SH preview",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Variant/renders/front.png",
+      "back": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Variant/renders/back.png",
+      "native": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Variant.kicad_pcb",
+      "note": "Earlier DEVELOPMENT reference; not the submitted RC3 board",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Variant/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Variant/renders/front.png",
+          "sha256": "5cd55e4c89708812ffff61fe85deec03fdf41160eaf25dcaa38e5ccd32274b9b",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Variant/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Variant/renders/back.png",
+          "sha256": "db19c0c29dc68b8a786eec79e74f9b062ba5613193a83fd3b4962e5c2fdb9057",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Variant.kicad_pcb",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Variant.kicad_pcb",
+          "sha256": "71f19cf20a78b2d7621e5b5f6dda5887c55192257edd35ac488a32d251b22dfa",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 9,
+      "title": "Readable back experiment",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Back-Experiment/renders/front.png",
+      "back": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Back-Experiment/renders/back.png",
+      "native": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Back-Experiment/PulseSensorAmped_Public_Online_3D_View_JSTSH_Readable_Back.kicad_pcb",
+      "note": "Earlier DEVELOPMENT reference; not the submitted RC3 board",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Back-Experiment/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Back-Experiment/renders/front.png",
+          "sha256": "5cf2583952d39e0111b8b4c5de03018e0b3e10b4a093a34b227c83374bbef607",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Back-Experiment/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Back-Experiment/renders/back.png",
+          "sha256": "15907aa9881ed0a0bec776e93aafe22ef2b67a740abb8514ccca1d985b35a120",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Back-Experiment/PulseSensorAmped_Public_Online_3D_View_JSTSH_Readable_Back.kicad_pcb",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Back-Experiment/PulseSensorAmped_Public_Online_3D_View_JSTSH_Readable_Back.kicad_pcb",
+          "sha256": "a282b6f8b8975a3e92f271a55898fbc950d5076ac860eff89f62074ab9867c43",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 10,
+      "title": "Routing-aware experiment",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Routing-Aware-Experiment/renders/front.png",
+      "back": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Routing-Aware-Experiment/renders/back.png",
+      "native": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Routing-Aware-Experiment/PulseSensorAmped_Public_Online_3D_View_JSTSH_Routing_Aware.kicad_pcb",
+      "note": "Earlier DEVELOPMENT reference; not the submitted RC3 board",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Routing-Aware-Experiment/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Routing-Aware-Experiment/renders/front.png",
+          "sha256": "3c160881af2fdcc7d47c89b71c7c19806c1d4c24645fd02e2dc30b0ff03f03e0",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Routing-Aware-Experiment/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Routing-Aware-Experiment/renders/back.png",
+          "sha256": "42a1f948141abdc17c343e441aa571e1d398233dea9ab4cb18297a9b28382a89",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Routing-Aware-Experiment/PulseSensorAmped_Public_Online_3D_View_JSTSH_Routing_Aware.kicad_pcb",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Routing-Aware-Experiment/PulseSensorAmped_Public_Online_3D_View_JSTSH_Routing_Aware.kicad_pcb",
+          "sha256": "c3496669e2a65077df9d071f97fe69166ebd1c06212355dda4f21aa0ea3a7fae",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 11,
+      "title": "Readable candidate",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Production-Candidate/renders/front.png",
+      "back": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Production-Candidate/renders/back.png",
+      "native": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Production-Candidate/PulseSensorAmped_Public_Online_3D_View_JSTSH_Readable_Production_Candidate.kicad_pcb",
+      "note": "Earlier DEVELOPMENT reference; not the submitted RC3 board",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Production-Candidate/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Production-Candidate/renders/front.png",
+          "sha256": "6b3e97cbefbffc9be25f86fb02d32a1faaedb84fb5d906f9afd86bd1ab59feac",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Production-Candidate/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Production-Candidate/renders/back.png",
+          "sha256": "9ac0119b72e21c74e1423d9bb02b8c8a9304bc11214aa76a4ed40d9316173840",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Production-Candidate/PulseSensorAmped_Public_Online_3D_View_JSTSH_Readable_Production_Candidate.kicad_pcb",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Readable-Production-Candidate/PulseSensorAmped_Public_Online_3D_View_JSTSH_Readable_Production_Candidate.kicad_pcb",
+          "sha256": "1df21edbde48505ce5c3a651f5d969c599e55d5206a8a929ed767933d2c690c2",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 12,
+      "title": "Spaced back variant",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spaced-Back-Variant/renders/front.png",
+      "back": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spaced-Back-Variant/renders/back.png",
+      "native": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spaced-Back-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Spaced_Back_Variant.kicad_pcb",
+      "note": "Earlier DEVELOPMENT reference; not the submitted RC3 board",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spaced-Back-Variant/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spaced-Back-Variant/renders/front.png",
+          "sha256": "c1681060a5749d12c12639993d03b6bf7f69919822332078cf3220765ba33c26",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spaced-Back-Variant/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spaced-Back-Variant/renders/back.png",
+          "sha256": "57d83d759454dcd581fa69b64d2e5c7d3097f52d8adcf7007d2b454d65f02923",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spaced-Back-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Spaced_Back_Variant.kicad_pcb",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spaced-Back-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Spaced_Back_Variant.kicad_pcb",
+          "sha256": "f339f64b808327f1c8cf9c159d114ed6283e5c6df48dde55f47c11334514686a",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 13,
+      "title": "Spacious education variant",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spacious-Education-Variant/renders/front.png",
+      "back": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spacious-Education-Variant/renders/back.png",
+      "native": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spacious-Education-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Spacious_Education_Variant.kicad_pcb",
+      "note": "Earlier DEVELOPMENT reference; not the submitted RC3 board",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spacious-Education-Variant/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spacious-Education-Variant/renders/front.png",
+          "sha256": "d6ec907a4e6ef1d06f97387fd092ec7b6a142e4134f6b683dc62c89fa77da128",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spacious-Education-Variant/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spacious-Education-Variant/renders/back.png",
+          "sha256": "12c54c665ea92a0ac1edcf767e93c2ac52e17eaaa436a04fd061c737c6cbad37",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spacious-Education-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Spacious_Education_Variant.kicad_pcb",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Spacious-Education-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Spacious_Education_Variant.kicad_pcb",
+          "sha256": "ec2e38286af81d2c26f99cf82c65e215e4494c828f8cb3d437dc22e10e6b79fa",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 14,
+      "title": "Educational candidate",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Educational-Production-Candidate/renders/front.png",
+      "back": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Educational-Production-Candidate/renders/back.png",
+      "native": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Educational-Production-Candidate/PulseSensorAmped_Public_Online_3D_View_JSTSH_Educational_Production_Candidate.kicad_pcb",
+      "note": "Earlier DEVELOPMENT reference; not the submitted RC3 board",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Educational-Production-Candidate/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Educational-Production-Candidate/renders/front.png",
+          "sha256": "fe8bcc1f1e7b96e7fdec5d88c18e584808a1a7f0324d642df06bb55ac5a36550",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Educational-Production-Candidate/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Educational-Production-Candidate/renders/back.png",
+          "sha256": "cd0777d2a08f15d99fadaaebf33b0d226d388363abfde2b7cd1afb63433985cd",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Educational-Production-Candidate/PulseSensorAmped_Public_Online_3D_View_JSTSH_Educational_Production_Candidate.kicad_pcb",
+          "repo_relative_path": "Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Educational-Production-Candidate/PulseSensorAmped_Public_Online_3D_View_JSTSH_Educational_Production_Candidate.kicad_pcb",
+          "sha256": "8ad7f83d1d11f953d18a88c22311ee03a91f65320e1e27d24e44c3bce2fd71c1",
+          "git_status": "M Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Educational-Production-Candidate/PulseSensorAmped_Public_Online_3D_View_JSTSH_Educational_Production_Candidate.kicad_pcb",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 15,
+      "title": "Iteration 00 \u00b7 optical stack",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-00-fixed-optical-stack/renders/front.png",
+      "back": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-00-fixed-optical-stack/renders/back.png",
+      "native": null,
+      "note": "Earlier DEVELOPMENT reference; native source path if present",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Readable-Production-Design-Loops/iteration-00-fixed-optical-stack/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-00-fixed-optical-stack/renders/front.png",
+          "sha256": "c736e8035110f5f2394df451ac6501592ca62f6dcb928d6fdf70f8ae99e7f4d4",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Readable-Production-Design-Loops/iteration-00-fixed-optical-stack/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-00-fixed-optical-stack/renders/back.png",
+          "sha256": "82e7d04c72bb5e8c3e5109191c4ff93042058f36864470a120cabf4552b002f0",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 16,
+      "title": "Iteration 01 \u00b7 connector labels",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-01-connector-label-pass/renders/front.png",
+      "back": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-01-connector-label-pass/renders/back.png",
+      "native": null,
+      "note": "Earlier DEVELOPMENT reference; native source path if present",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Readable-Production-Design-Loops/iteration-01-connector-label-pass/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-01-connector-label-pass/renders/front.png",
+          "sha256": "325a17702fef56ffd1c34aef24b3f68f47e790405f47ed058f0092854bbc181a",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Readable-Production-Design-Loops/iteration-01-connector-label-pass/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-01-connector-label-pass/renders/back.png",
+          "sha256": "dc8f6e6ca7840c17f950773feff97a6023fedbe49a9f20a68dcc20e7181fb870",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 17,
+      "title": "Iteration 02 \u00b7 side pin cues",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-02-side-pin-cues/renders/front.png",
+      "back": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-02-side-pin-cues/renders/back.png",
+      "native": null,
+      "note": "Earlier DEVELOPMENT reference; native source path if present",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Readable-Production-Design-Loops/iteration-02-side-pin-cues/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-02-side-pin-cues/renders/front.png",
+          "sha256": "a2ea67d5f1eb643b3106a2e4348434ac168a4afcaeed9dcbc6fb2e41881b8c51",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Readable-Production-Design-Loops/iteration-02-side-pin-cues/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-02-side-pin-cues/renders/back.png",
+          "sha256": "068a6543041fa9b01adf15ec7469cc2674b2bcbf8f3fcfee8a96caf7cd04063a",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 18,
+      "title": "Iteration 03 \u00b7 ground cue",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-03-visible-ground-cue/renders/front.png",
+      "back": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-03-visible-ground-cue/renders/back.png",
+      "native": null,
+      "note": "Earlier DEVELOPMENT reference; native source path if present",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Readable-Production-Design-Loops/iteration-03-visible-ground-cue/renders/front.png",
+          "repo_relative_path": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-03-visible-ground-cue/renders/front.png",
+          "sha256": "6b3e97cbefbffc9be25f86fb02d32a1faaedb84fb5d906f9afd86bd1ab59feac",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Readable-Production-Design-Loops/iteration-03-visible-ground-cue/renders/back.png",
+          "repo_relative_path": "Public-Online-Audit/Readable-Production-Design-Loops/iteration-03-visible-ground-cue/renders/back.png",
+          "sha256": "9ac0119b72e21c74e1423d9bb02b8c8a9304bc11214aa76a4ed40d9316173840",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 19,
+      "title": "Educational SVG concept \u00b7 v1",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": null,
+      "back": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup.svg.png",
+      "native": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup.svg",
+      "note": "Back-only illustration; not a native board or fabrication output",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup.svg.png",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup.svg.png",
+          "sha256": "2104338586436ca51eecdc20cbfdbc003fbb25e5cde798c671815137a4a2a045",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup.svg",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup.svg",
+          "sha256": "bc294d9a96b1d434a96276cb29b3095aea182b5155d6077416a0690b5245274a",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 20,
+      "title": "Educational SVG concept \u00b7 v2",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": null,
+      "back": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v2.svg.png",
+      "native": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v2.svg",
+      "note": "Back-only illustration; not a native board or fabrication output",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v2.svg.png",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v2.svg.png",
+          "sha256": "dd66fa57557ecc9e4ede468a368ffe63f8eced31815cf545ff4d16bedc2928ba",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v2.svg",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v2.svg",
+          "sha256": "51a44fb6db613a9865c68a2582708544cbd3190a09bbdfe02cf7c4d156da4359",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 21,
+      "title": "Educational SVG concept \u00b7 v3",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": null,
+      "back": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v3.svg.png",
+      "native": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v3.svg",
+      "note": "Back-only illustration; not a native board or fabrication output",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v3.svg.png",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v3.svg.png",
+          "sha256": "83323de72df616ffeb538e11ea4667563c803cba3deebf2b0622845158c21b1f",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v3.svg",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_educational_layout_mockup_v3.svg",
+          "sha256": "2faae2a338c9709a1471b29d6e2f8bb2198f83306c7a3ea9a4e5948bccdcaa2c",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 22,
+      "title": "Educational SVG concept \u00b7 v4",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": null,
+      "back": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v4.svg.png",
+      "native": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v4.svg",
+      "note": "Back-only illustration; not a native board or fabrication output",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v4.svg.png",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v4.svg.png",
+          "sha256": "a42811a4f4b0944d6a8e2646c0ae3db05fc534be1470aa4da53d71e0b0331664",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v4.svg",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v4.svg",
+          "sha256": "a1191daa345196f3bb3f6ca3209199cf219b22a12709db3fd6578e93c84b1673",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 23,
+      "title": "Educational SVG concept \u00b7 v5",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": null,
+      "back": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v5.svg.png",
+      "native": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v5.svg",
+      "note": "Back-only illustration; not a native board or fabrication output",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v5.svg.png",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v5.svg.png",
+          "sha256": "c4a766d66db6a6f1dc74fe8365a4bcfb29e9183c21dec267ab39051024deb2cb",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v5.svg",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v5.svg",
+          "sha256": "fd50596cdc4c9df40c83a3a7782aa90187c1bb66273ef4274d66093228e566ca",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 24,
+      "title": "Educational SVG concept \u00b7 v6",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": null,
+      "back": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v6.svg.png",
+      "native": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v6.svg",
+      "note": "Back-only illustration; not a native board or fabrication output",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v6.svg.png",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v6.svg.png",
+          "sha256": "3003caf1b1792c0ab2779771f96560149c3236cb999410787c05698ea0d0d0d0",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v6.svg",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v6.svg",
+          "sha256": "450971e91da8e2eccd511ba90e14bc49013e35b4e36f4313fa1e3f9616bb108b",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 25,
+      "title": "Educational SVG concept \u00b7 v7",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": null,
+      "back": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v7.svg.png",
+      "native": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v7.svg",
+      "note": "Back-only illustration; not a native board or fabrication output",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v7.svg.png",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v7.svg.png",
+          "sha256": "3a44e1657b9a705a94a68b80a716929b2adc44329d54d51c3f005905dc63e74e",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v7.svg",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v7.svg",
+          "sha256": "e4eab6e267602b61981fed1f36d645a9b403bdc307564261386d26e362c3e383",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 26,
+      "title": "Educational SVG concept \u00b7 v8",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": null,
+      "back": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v8.svg.png",
+      "native": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v8.svg",
+      "note": "Back-only illustration; not a native board or fabrication output",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v8.svg.png",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v8.svg.png",
+          "sha256": "6b8a299d0bf767c29a81ebc4ec3e5af0b15d008d21a3338357f5c238b498afad",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v8.svg",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v8.svg",
+          "sha256": "dde258fe3479d3bccde49110eab3deabc95aaa8b916bd9b3d87f181ca8723f43",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    },
+    {
+      "number": 27,
+      "title": "Educational SVG concept \u00b7 v9",
+      "root": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware",
+      "front": null,
+      "back": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v9.svg.png",
+      "native": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v9.svg",
+      "note": "Back-only illustration; not a native board or fabrication output",
+      "source_checkout_commit": "6eb6092826e2263ab87b58af073634eb1b82a637",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v9.svg.png",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v9.svg.png",
+          "sha256": "c9d34b526fcc3acb7c179e1d1255f8e95998aa6bce0d0450c6273eb018559722",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v9.svg",
+          "repo_relative_path": "Public-Online-Audit/Educational-SVG-Mockups/pulsesensor_back_clockwise_puzzle_flow_mockup_v9.svg",
+          "sha256": "66e7b95ad88aedde27bde3fb45790e91de15a04ec289611a33907eb27d8ef61f",
+          "git_status": "clean or ignored (see tracked flag)",
+          "tracked": true
+        }
+      }
+    }
+  ]
+}
