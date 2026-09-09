@@ -1,0 +1,60 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-09T15:56:13",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.5",
+    "schematic_parity": [],
+    "source": "PulseSensor-Amped-B-JST.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "NPTH inside courtyard",
+            "items": [
+                {
+                    "description": "NPTH pad of D1",
+                    "pos": {
+                        "x": 100.0,
+                        "y": 99.6063
+                    },
+                    "uuid": "ba0f2c30-f932-45f0-bcd6-1b5f7b387516"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 100.0127,
+                        "y": 101.8669
+                    },
+                    "uuid": "8785c022-04e4-4b15-8042-ce76e57d3197"
+                }
+            ],
+            "severity": "error",
+            "type": "npth_inside_courtyard"
+        }
+    ]
+}

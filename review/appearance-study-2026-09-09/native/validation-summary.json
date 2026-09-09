@@ -1,0 +1,22 @@
+{
+  "status": "REVISE",
+  "profile": "diagnostic",
+  "created_utc": "2026-09-09T20:00:34Z",
+  "blocking_reasons": [
+    "Native schematic is missing; ERC and parity cannot be trusted",
+    "Schematic parity did not execute",
+    "1 unwaived ERC/DRC error(s)",
+    "Missing required artifacts: PulseSensor-JST-Educational-Study.step, board-stats.json, erc.json, renders/back.png, renders/bottom.png, renders/front.png, renders/iso_bottom_left.png, renders/iso_bottom_right.png, renders/iso_top_left.png, renders/iso_top_right.png, renders/left.png, renders/right.png, renders/top.png"
+  ],
+  "native_sha256": "def637afcf37af616f42837990a54bde2b8bd8a8256283436de89ed58a13c78e",
+  "drc_summary": {
+    "baseline_errors": 1,
+    "candidate_errors": 1,
+    "candidate_text_height_warnings": 33,
+    "unconnected_items": 0,
+    "silk_overlap_warnings": 0,
+    "silk_over_copper_warnings": 0,
+    "silk_edge_warnings": 0
+  },
+  "interpretation": "Artwork feasibility study, not release candidate. Full schematic is a native User.1 explanatory drawing, not an ERC-checkable .kicad_sch."
+}

@@ -1,0 +1,33 @@
+{
+  "classification": "DEVELOPMENT",
+  "status": "REVISE \u2014 artwork study; not fabrication",
+  "source": "/Users/PulsesensorCorp/.codex/worktrees/2f83/PulseSensor Amped Hardware/PulseSensor-Amped-Rebuild/output/pcbway-release-candidates-RC3-R1-FINAL/PulseSensor-Amped-B-PCBWay-EVT-RC3-R1-FINAL/SOURCE_SUPPORT/PulseSensor-Amped-B-JST.kicad_pcb",
+  "source_sha256": "b439dcff82c4553731ac35ebcd27276899f8dfbbfcd35f2351d8101497eb4ad4",
+  "artwork_source": "/Users/PulsesensorCorp/Documents/Codex/Imported PulseSensor Projects 2026-07-13/PulseSensor Amped Hardware/Public-Online-Audit/KiCad-Public-3D-View-JSTSH-Variant/PulseSensorAmped_Public_Online_3D_View_JSTSH_Variant.kicad_pcb",
+  "artwork_sha256": "71f19cf20a78b2d7621e5b5f6dda5887c55192257edd35ac488a32d251b22dfa",
+  "native_sha256": "def637afcf37af616f42837990a54bde2b8bd8a8256283436de89ed58a13c78e",
+  "electrical_and_placement_unchanged": true,
+  "fixed_references": [
+    "D1",
+    "U1",
+    "J1"
+  ],
+  "dashed_strokes": 35,
+  "path_nets": [
+    "AMP_INVERTING",
+    "FILTER_STAGE_1",
+    "FILTER_STAGE_2",
+    "LED_K",
+    "SIGNAL",
+    "U1_IOUT"
+  ],
+  "meaning": "Dashed lines follow existing routed net centerlines, clipped at parts and text. They are not unidirectional DC arrows. Both copper layers are projected onto the back artwork.",
+  "minimum_text_mm": 0.45,
+  "minimum_stroke_mm": 0.1,
+  "limits": [
+    "Original heart is reconstructed",
+    "Small text needs actual-size review",
+    "Silkscreen clearance and readability still under review",
+    "No fabrication outputs authorized or produced"
+  ]
+}

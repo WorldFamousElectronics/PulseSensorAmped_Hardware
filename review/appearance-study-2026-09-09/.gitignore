@@ -1,0 +1,4 @@
+native-gate*/
+visual-log/
+*.kicad_prl
+*.lck
