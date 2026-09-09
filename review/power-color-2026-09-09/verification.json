@@ -1,0 +1,82 @@
+{
+  "mono-06": {
+    "sha256": "5f7b1e478455cfd8a930a98856993048dd11010dda3f39609d6c4e7d06d41be8",
+    "checks": {
+      "footprint_unchanged": true,
+      "segment_unchanged": true,
+      "via_unchanged": true,
+      "zone_unchanged": true,
+      "gr_circle_unchanged": true,
+      "schematic_unchanged": true,
+      "no_new_mask_drawings": true,
+      "zero_unconnected": true,
+      "zero_schematic_mismatches": true,
+      "only_original_optical_exception": true
+    },
+    "passed": true
+  },
+  "color-07": {
+    "sha256": "e02c5f5ad6b1566b0a20012b3736d95b6f6cbddd278f83be3b3f9323e6234ede",
+    "checks": {
+      "footprint_unchanged": true,
+      "segment_unchanged": true,
+      "via_unchanged": true,
+      "zone_unchanged": true,
+      "gr_circle_unchanged": true,
+      "schematic_unchanged": true,
+      "no_new_mask_drawings": true,
+      "zero_unconnected": true,
+      "zero_schematic_mismatches": true,
+      "only_original_optical_exception": true
+    },
+    "passed": true
+  },
+  "mono-08": {
+    "sha256": "81c828839639dedec8dbe961c669934e012c6552d0a52149237bedb2e42d5e43",
+    "checks": {
+      "footprint_unchanged": true,
+      "segment_unchanged": true,
+      "via_unchanged": true,
+      "zone_unchanged": true,
+      "gr_circle_unchanged": true,
+      "schematic_unchanged": true,
+      "no_new_mask_drawings": true,
+      "zero_unconnected": true,
+      "zero_schematic_mismatches": true,
+      "only_original_optical_exception": true
+    },
+    "passed": true
+  },
+  "color-09": {
+    "sha256": "49c5f311b41d0a83ab04f18453b054e4cd788c5c3a867b194274378f3ce22592",
+    "checks": {
+      "footprint_unchanged": true,
+      "segment_unchanged": true,
+      "via_unchanged": true,
+      "zone_unchanged": true,
+      "gr_circle_unchanged": true,
+      "schematic_unchanged": true,
+      "no_new_mask_drawings": true,
+      "zero_unconnected": true,
+      "zero_schematic_mismatches": true,
+      "only_original_optical_exception": true
+    },
+    "passed": true
+  },
+  "color-10": {
+    "sha256": "4edcc883b57dc5c727ee5995cf974e39a71e713f779ac2780b3cc7e49c1a3883",
+    "checks": {
+      "footprint_unchanged": true,
+      "segment_unchanged": true,
+      "via_unchanged": true,
+      "zone_unchanged": true,
+      "gr_circle_unchanged": true,
+      "schematic_unchanged": true,
+      "no_new_mask_drawings": true,
+      "zero_unconnected": true,
+      "zero_schematic_mismatches": true,
+      "only_original_optical_exception": true
+    },
+    "passed": true
+  }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "argv": [
+      "pcb",
+      "export",
+      "gerbers",
+      "--no-x2",
+      "--subtract-soldermask",
+      "--check-zones",
+      "--use-drill-file-origin",
+      "--layers",
+      "F.Cu,B.Cu,F.Mask,B.Mask,F.Silkscreen,B.Silkscreen,Edge.Cuts",
+      "-o",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_pcb"
+    ],
+    "exit_code": 0,
+    "stdout": "Plotted to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-F_Cu.gtl'.\nPlotted to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-B_Cu.gbl'.\nPlotted to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-F_Silkscreen.gto'.\nPlotted to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-B_Silkscreen.gbo'.\nPlotted to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-F_Mask.gts'.\nPlotted to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-B_Mask.gbs'.\nPlotted to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-Edge_Cuts.gm1'.\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "pcb",
+      "export",
+      "drill",
+      "--format",
+      "excellon",
+      "--drill-origin",
+      "plot",
+      "--excellon-units",
+      "mm",
+      "--excellon-separate-th",
+      "--generate-map",
+      "--map-format",
+      "pdf",
+      "--generate-report",
+      "--report-path",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/DRILL_REPORT.txt",
+      "-o",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_pcb"
+    ],
+    "exit_code": 0,
+    "stdout": "Created file '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-PTH.drl'\nCreated file '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-NPTH.drl'\nCreated file '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-PTH-drl_map.pdf'.\nCreated file '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational-NPTH-drl_map.pdf'.\nDone.\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "pcb",
+      "export",
+      "ipcd356",
+      "-o",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/FAB/PulseSensor-JST-Educational.d356",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_pcb"
+    ],
+    "exit_code": 0,
+    "stdout": "Successfully created IPC-D-356 file\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "pcb",
+      "export",
+      "gerbers",
+      "--no-x2",
+      "--check-zones",
+      "--use-drill-file-origin",
+      "--layers",
+      "F.Paste,B.Paste",
+      "-o",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/ASSEMBLY/PASTE_GERBERS",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_pcb"
+    ],
+    "exit_code": 0,
+    "stdout": "Plotted to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/ASSEMBLY/PASTE_GERBERS/PulseSensor-JST-Educational-F_Paste.gtp'.\nPlotted to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/ASSEMBLY/PASTE_GERBERS/PulseSensor-JST-Educational-B_Paste.gbp'.\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "pcb",
+      "export",
+      "pos",
+      "--format",
+      "csv",
+      "--units",
+      "mm",
+      "--side",
+      "both",
+      "--smd-only",
+      "--exclude-dnp",
+      "--use-drill-file-origin",
+      "-o",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/ASSEMBLY/CPL.csv",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_pcb"
+    ],
+    "exit_code": 0,
+    "stdout": "Wrote position data to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/ASSEMBLY/CPL.csv'.\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "sch",
+      "export",
+      "netlist",
+      "--format",
+      "kicadxml",
+      "-o",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/VALIDATION/netlist.xml",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_sch"
+    ],
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "Fontconfig error: Cannot load default config file: No such file: (null)\n"
+  },
+  {
+    "argv": [
+      "sch",
+      "export",
+      "pdf",
+      "-o",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/REVIEW/schematic.pdf",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_sch"
+    ],
+    "exit_code": 0,
+    "stdout": "Plotted to '/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/REVIEW/schematic.pdf'.\nDone.\n",
+    "stderr": "Fontconfig error: Cannot load default config file: No such file: (null)\n"
+  },
+  {
+    "argv": [
+      "sch",
+      "erc",
+      "--format",
+      "json",
+      "-o",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/VALIDATION/erc.json",
+      "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_sch"
+    ],
+    "exit_code": 0,
+    "stdout": "Found 0 violations\nSaved ERC Report to /Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08-package/VALIDATION/erc.json\n",
+    "stderr": "Fontconfig error: Cannot load default config file: No such file: (null)\n"
+  }
+]

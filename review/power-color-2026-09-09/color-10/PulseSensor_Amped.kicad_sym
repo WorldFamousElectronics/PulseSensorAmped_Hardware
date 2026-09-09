@@ -1,0 +1,783 @@
+(kicad_symbol_lib (version 20231120) (generator kicad_symbol_editor)
+	(symbol "R_H"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "R"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "R_H_1_1"
+			(rectangle
+				(start -1.270 -2.540)
+				(end 1.270 2.540)
+				(stroke (width 0.254) (type default))
+				(fill (type background))
+			)
+			(pin passive line
+				(at -3.810 0.000 0)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 3.810 0.000 180)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "R_V"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "R"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "R_V_1_1"
+			(rectangle
+				(start -1.270 -2.540)
+				(end 1.270 2.540)
+				(stroke (width 0.254) (type default))
+				(fill (type background))
+			)
+			(pin passive line
+				(at 0.000 5.080 270)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 0.000 -5.080 90)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "C_H"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "C"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "C_H_1_1"
+			(polyline
+				(pts (xy -0.635 -2.540) (xy -0.635 2.540))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(polyline
+				(pts (xy 0.635 -2.540) (xy 0.635 2.540))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin passive line
+				(at -3.810 0.000 0)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 3.810 0.000 180)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "C_V"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "C"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "C_V_1_1"
+			(polyline
+				(pts (xy -2.540 -0.635) (xy 2.540 -0.635))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(polyline
+				(pts (xy -2.540 0.635) (xy 2.540 0.635))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin passive line
+				(at 0.000 3.810 270)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 0.000 -3.810 90)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "NSR05F40NXT5G"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "NSR05F40NXT5G"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "NSR05F40NXT5G_1_1"
+			(polyline
+				(pts (xy -1.270 -2.540) (xy -1.270 2.540))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(polyline
+				(pts (xy 1.270 -2.540) (xy -1.270 0.000) (xy 1.270 2.540) (xy 1.270 -2.540))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin power_out line
+				(at -3.810 0.000 0)
+				(length 2.54)
+				(name "K" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 3.810 0.000 180)
+				(length 2.54)
+				(name "A" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "AM2520ZGC09"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "AM2520ZGC09"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "AM2520ZGC09_1_1"
+			(polyline
+				(pts (xy -2.540 1.270) (xy 2.540 1.270))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(polyline
+				(pts (xy -2.540 -1.270) (xy 0.000 1.270) (xy 2.540 -1.270) (xy -2.540 -1.270))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin passive line
+				(at 0.000 3.810 270)
+				(length 2.54)
+				(name "A" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 0.000 -3.810 90)
+				(length 2.54)
+				(name "K" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "APDS-9008-020"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "APDS-9008-020"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "APDS-9008-020_1_1"
+			(rectangle
+				(start -2.540 -3.810)
+				(end 2.540 3.810)
+				(stroke (width 0.254) (type default))
+				(fill (type background))
+			)
+			(circle
+				(center 0.000 0.000)
+				(radius 0.800)
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin power_in line
+				(at -5.080 2.540 0)
+				(length 2.54)
+				(name "VCC" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin no_connect line
+				(at 2.540 6.350 270)
+				(length 2.54)
+				(name "NC" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin no_connect line
+				(at 0.000 6.350 270)
+				(length 2.54)
+				(name "NC" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "3" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin power_in line
+				(at -5.080 -2.540 0)
+				(length 2.54)
+				(name "GND" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "4" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin no_connect line
+				(at 0.000 -6.350 90)
+				(length 2.54)
+				(name "NC" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "5" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin output line
+				(at 5.080 0.000 180)
+				(length 2.54)
+				(name "IOUT" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "6" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "MCP6001T-I_OT"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "MCP6001T-I/OT"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "MCP6001T-I_OT_1_1"
+			(polyline
+				(pts (xy -2.540 -3.810) (xy -2.540 3.810) (xy 3.810 0.000) (xy -2.540 -3.810))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin output line
+				(at 6.350 0.000 180)
+				(length 2.54)
+				(name "VOUT" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin power_in line
+				(at 0.000 -6.350 90)
+				(length 2.54)
+				(name "VSS" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin input line
+				(at -5.080 -2.540 0)
+				(length 2.54)
+				(name "VIN+" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "3" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin input line
+				(at -5.080 2.540 0)
+				(length 2.54)
+				(name "VIN-" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "4" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin power_in line
+				(at 0.000 6.350 270)
+				(length 2.54)
+				(name "VDD" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "5" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SM03B-SRSS-TB"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "SM03B-SRSS-TB"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "SM03B-SRSS-TB_1_1"
+			(rectangle
+				(start -2.540 -5.080)
+				(end 2.540 5.080)
+				(stroke (width 0.254) (type default))
+				(fill (type background))
+			)
+			(pin power_out line
+				(at -5.080 -2.540 0)
+				(length 2.54)
+				(name "GND" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin power_out line
+				(at -5.080 0.000 0)
+				(length 2.54)
+				(name "VDD_IN" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at -5.080 2.540 0)
+				(length 2.54)
+				(name "SIGNAL" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "3" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "WFE-PS-A-HARNESS-12IN-28AWG"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "WFE-PS-A-HARNESS-12IN-28AWG"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "WFE-PS-A-HARNESS-12IN-28AWG_1_1"
+			(rectangle
+				(start -2.540 -5.080)
+				(end 2.540 5.080)
+				(stroke (width 0.254) (type default))
+				(fill (type background))
+			)
+			(pin power_out line
+				(at -5.080 -2.540 0)
+				(length 2.54)
+				(name "GND_BLACK" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin power_out line
+				(at -5.080 0.000 0)
+				(length 2.54)
+				(name "VDD_RED" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at -5.080 2.540 0)
+				(length 2.54)
+				(name "SIGNAL_PURPLE" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "3" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+)

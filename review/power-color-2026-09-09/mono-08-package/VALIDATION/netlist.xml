@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_sch</source>
+    <date>2026-09-09T16:55:48</date>
+    <tool>Eeschema 10.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>PulseSensor Amped B — JST connector</title>
+        <company>World Famous Electronics LLC</company>
+        <rev>DEV-B-01</rev>
+        <date>2026-07-31</date>
+        <source>PulseSensor-JST-Educational.kicad_sch</source>
+        <comment number="1" value="DEVELOPMENT RELEASE CANDIDATE — not approved for order"/>
+        <comment number="2" value="Original WFE topology; exact manufacturer pin mapping"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4.7uF</value>
+      <footprint>PulseSensor_Amped:C_0402_Educational</footprint>
+      <description>Original signal filter capacitor</description>
+      <fields>
+        <field name="Manufacturer">Murata</field>
+        <field name="MPN">GRM155R60J475ME47D</field>
+        <field name="Footprint">PulseSensor_Amped:C_0402_Educational</field>
+        <field name="Datasheet"/>
+        <field name="Description">Original signal filter capacitor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="C_V" description=""/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="MPN" value="GRM155R60J475ME47D"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5302f982-25e7-5a5f-8d33-5b77584a26d6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C2">
+      <value>4.7uF</value>
+      <footprint>PulseSensor_Amped:C_0402_Educational</footprint>
+      <description>Original signal filter capacitor</description>
+      <fields>
+        <field name="Manufacturer">Murata</field>
+        <field name="MPN">GRM155R60J475ME47D</field>
+        <field name="Footprint">PulseSensor_Amped:C_0402_Educational</field>
+        <field name="Datasheet"/>
+        <field name="Description">Original signal filter capacitor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="C_H" description=""/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="MPN" value="GRM155R60J475ME47D"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>213ce67d-b33a-5d09-984e-7ae99e7d497d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C3">
+      <value>4.7uF</value>
+      <footprint>PulseSensor_Amped:C_0402_Educational</footprint>
+      <description>Original signal filter capacitor</description>
+      <fields>
+        <field name="Manufacturer">Murata</field>
+        <field name="MPN">GRM155R60J475ME47D</field>
+        <field name="Footprint">PulseSensor_Amped:C_0402_Educational</field>
+        <field name="Datasheet"/>
+        <field name="Description">Original signal filter capacitor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="C_H" description=""/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="MPN" value="GRM155R60J475ME47D"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5839546-e1fd-5a93-8daa-e6bfe92b2bac</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C4">
+      <value>2.2uF</value>
+      <footprint>PulseSensor_Amped:C_0402_Educational</footprint>
+      <description>Original signal coupling capacitor</description>
+      <fields>
+        <field name="Manufacturer">Murata</field>
+        <field name="MPN">GRM155R61A225KE01D</field>
+        <field name="Footprint">PulseSensor_Amped:C_0402_Educational</field>
+        <field name="Datasheet"/>
+        <field name="Description">Original signal coupling capacitor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="C_H" description=""/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="MPN" value="GRM155R61A225KE01D"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d2dafc7-b2c6-5bf0-9204-84f8336ab7a6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C5">
+      <value>2.2uF</value>
+      <footprint>PulseSensor_Amped:C_0402_Educational</footprint>
+      <description>Raw input bypass capacitor</description>
+      <fields>
+        <field name="Manufacturer">Murata</field>
+        <field name="MPN">GRM155R61A225KE01D</field>
+        <field name="Footprint">PulseSensor_Amped:C_0402_Educational</field>
+        <field name="Datasheet"/>
+        <field name="Description">Raw input bypass capacitor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="C_V" description=""/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="MPN" value="GRM155R61A225KE01D"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f84246b2-6af1-55ce-bb01-f165931fca18</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D1">
+      <value>AM2520ZGC09</value>
+      <footprint>PulseSensor_Amped:AM2520ZGC09_ReverseMount_OriginalAperture</footprint>
+      <datasheet>https://www.kingbrightusa.com/images/catalog/spec/am2520zgc09.pdf</datasheet>
+      <description>Reverse-mount green LED, original optical aperture</description>
+      <fields>
+        <field name="Manufacturer">Kingbright</field>
+        <field name="MPN">AM2520ZGC09</field>
+        <field name="Footprint">PulseSensor_Amped:AM2520ZGC09_ReverseMount_OriginalAperture</field>
+        <field name="Datasheet">https://www.kingbrightusa.com/images/catalog/spec/am2520zgc09.pdf</field>
+        <field name="Description">Reverse-mount green LED, original optical aperture</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="AM2520ZGC09" description=""/>
+      <property name="Manufacturer" value="Kingbright"/>
+      <property name="MPN" value="AM2520ZGC09"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31ca823b-2a9e-5512-8c7d-95d7cbe618c2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D2">
+      <value>NSR05F40NXT5G</value>
+      <footprint>PulseSensor_Amped:NSR05F40NXT5G_DSN2</footprint>
+      <datasheet>https://www.onsemi.com/download/data-sheet/pdf/nsr05f40-d.pdf</datasheet>
+      <description>40 V 500 mA Schottky barrier diode, DSN2</description>
+      <fields>
+        <field name="Manufacturer">onsemi</field>
+        <field name="MPN">NSR05F40NXT5G</field>
+        <field name="Footprint">PulseSensor_Amped:NSR05F40NXT5G_DSN2</field>
+        <field name="Datasheet">https://www.onsemi.com/download/data-sheet/pdf/nsr05f40-d.pdf</field>
+        <field name="Description">40 V 500 mA Schottky barrier diode, DSN2</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="NSR05F40NXT5G" description=""/>
+      <property name="Manufacturer" value="onsemi"/>
+      <property name="MPN" value="NSR05F40NXT5G"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c540fcdc-01f5-5064-9f40-ae31a2e669d5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J1">
+      <value>SM03B-SRSS-TB</value>
+      <footprint>Connector_JST:JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal</footprint>
+      <datasheet>https://www.jst-mfg.com/product/pdf/eng/eSH.pdf</datasheet>
+      <description>JST SH 3-circuit 1.0 mm side-entry SMT header</description>
+      <fields>
+        <field name="Manufacturer">JST</field>
+        <field name="MPN">SM03B-SRSS-TB</field>
+        <field name="Footprint">Connector_JST:JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal</field>
+        <field name="Datasheet">https://www.jst-mfg.com/product/pdf/eng/eSH.pdf</field>
+        <field name="Description">JST SH 3-circuit 1.0 mm side-entry SMT header</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="SM03B-SRSS-TB" description=""/>
+      <property name="Manufacturer" value="JST"/>
+      <property name="MPN" value="SM03B-SRSS-TB"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57ebcf86-26a4-5192-af2c-af4ec86ff196</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="2"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R1">
+      <value>EVT_MATRIX</value>
+      <footprint>PulseSensor_Amped:R_0402_Educational</footprint>
+      <datasheet>../constraints/r1-screening-matrix.json</datasheet>
+      <description>LED current limiting resistor; populate exact value/MPN per controlled 10-board EVT screening matrix</description>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="MPN">SEE_R1_SCREENING_MATRIX</field>
+        <field name="Footprint">PulseSensor_Amped:R_0402_Educational</field>
+        <field name="Datasheet">../constraints/r1-screening-matrix.json</field>
+        <field name="Description">LED current limiting resistor; populate exact value/MPN per controlled 10-board EVT screening matrix</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="R_V" description=""/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="MPN" value="SEE_R1_SCREENING_MATRIX"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4149dff3-c729-58a1-848b-cccbd595308c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R2">
+      <value>12K</value>
+      <footprint>PulseSensor_Amped:R_0402_Educational</footprint>
+      <description>APDS load resistor</description>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="MPN">RC0402FR-0712KL</field>
+        <field name="Footprint">PulseSensor_Amped:R_0402_Educational</field>
+        <field name="Datasheet"/>
+        <field name="Description">APDS load resistor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="R_V" description=""/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="MPN" value="RC0402FR-0712KL"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26323e56-4e32-5f6d-978a-7e2f32b20153</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R3">
+      <value>100K</value>
+      <footprint>PulseSensor_Amped:R_0402_Educational</footprint>
+      <description>Mid-supply divider lower resistor</description>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="MPN">RC0402FR-07100KL</field>
+        <field name="Footprint">PulseSensor_Amped:R_0402_Educational</field>
+        <field name="Datasheet"/>
+        <field name="Description">Mid-supply divider lower resistor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="R_V" description=""/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="MPN" value="RC0402FR-07100KL"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74960105-329c-5051-aa0e-57f6d838f2bb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R4">
+      <value>100K</value>
+      <footprint>PulseSensor_Amped:R_0402_Educational</footprint>
+      <description>Mid-supply divider upper resistor</description>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="MPN">RC0402FR-07100KL</field>
+        <field name="Footprint">PulseSensor_Amped:R_0402_Educational</field>
+        <field name="Datasheet"/>
+        <field name="Description">Mid-supply divider upper resistor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="R_V" description=""/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="MPN" value="RC0402FR-07100KL"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d0f148d-ad75-59d9-bf6e-63f7d3cc6d61</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>PulseSensor_Amped:R_0402_Educational</footprint>
+      <description>Op-amp inverting input resistor</description>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="MPN">RC0402FR-0710KL</field>
+        <field name="Footprint">PulseSensor_Amped:R_0402_Educational</field>
+        <field name="Datasheet"/>
+        <field name="Description">Op-amp inverting input resistor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="R_H" description=""/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="MPN" value="RC0402FR-0710KL"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>436dd564-1849-543f-927d-1a9443c98838</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R6">
+      <value>3.3M</value>
+      <footprint>PulseSensor_Amped:R_0402_Educational</footprint>
+      <description>Op-amp feedback resistor</description>
+      <fields>
+        <field name="Manufacturer">Yageo</field>
+        <field name="MPN">RC0402FR-073M3L</field>
+        <field name="Footprint">PulseSensor_Amped:R_0402_Educational</field>
+        <field name="Datasheet"/>
+        <field name="Description">Op-amp feedback resistor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="R_H" description=""/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="MPN" value="RC0402FR-073M3L"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07f59ca5-cb3e-55d0-bf12-5290651ebe5e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U1">
+      <value>APDS-9008-020</value>
+      <footprint>PulseSensor_Amped:APDS-9008-020</footprint>
+      <datasheet>https://docs.broadcom.com/doc/AV02-1169EN</datasheet>
+      <description>Miniature analog-output ambient light photo sensor</description>
+      <fields>
+        <field name="Manufacturer">Broadcom</field>
+        <field name="MPN">APDS-9008-020</field>
+        <field name="Footprint">PulseSensor_Amped:APDS-9008-020</field>
+        <field name="Datasheet">https://docs.broadcom.com/doc/AV02-1169EN</field>
+        <field name="Description">Miniature analog-output ambient light photo sensor</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="APDS-9008-020" description=""/>
+      <property name="Manufacturer" value="Broadcom"/>
+      <property name="MPN" value="APDS-9008-020"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a36893fb-fcbc-5ad0-9f36-92cdeeb2e67e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="4"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="2"/>
+            <pin num="6"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U2">
+      <value>MCP6001T-I/OT</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf</datasheet>
+      <description>1 MHz rail-to-rail input/output op amp, SOT-23-5</description>
+      <fields>
+        <field name="Manufacturer">Microchip</field>
+        <field name="MPN">MCP6001T-I/OT</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf</field>
+        <field name="Description">1 MHz rail-to-rail input/output op amp, SOT-23-5</field>
+      </fields>
+      <libsource lib="PulseSensor_Amped" part="MCP6001T-I_OT" description=""/>
+      <property name="Manufacturer" value="Microchip"/>
+      <property name="MPN" value="MCP6001T-I/OT"/>
+      <property name="Sheetname" value="PulseSensor-JST-Educational"/>
+      <property name="Sheetfile" value="PulseSensor-JST-Educational.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da7cb981-472b-56f8-9faa-f5e6b6489ad3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="4"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="2"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="PulseSensor_Amped" part="AM2520ZGC09">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">AM2520ZGC09</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PulseSensor_Amped" part="APDS-9008-020">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">APDS-9008-020</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="IOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="PulseSensor_Amped" part="C_H">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PulseSensor_Amped" part="C_V">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PulseSensor_Amped" part="MCP6001T-I_OT">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP6001T-I/OT</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="VIN+" type="input"/>
+        <pin num="4" name="VIN-" type="input"/>
+        <pin num="5" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="PulseSensor_Amped" part="NSR05F40NXT5G">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">NSR05F40NXT5G</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="power_out"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PulseSensor_Amped" part="R_H">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PulseSensor_Amped" part="R_V">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PulseSensor_Amped" part="SM03B-SRSS-TB">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SM03B-SRSS-TB</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_out"/>
+        <pin num="2" name="VDD_IN" type="power_out"/>
+        <pin num="3" name="SIGNAL" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="PulseSensor_Amped">
+      <uri>${KIPRJMOD}/PulseSensor_Amped.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/AMP_INVERTING" class="Default">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="VIN-_4" pintype="input"/>
+    </net>
+    <net code="2" name="/FILTER_STAGE_1" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/FILTER_STAGE_2" class="Default">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/GND" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="GND_1" pintype="power_out"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND_4" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="VSS_2" pintype="power_in"/>
+    </net>
+    <net code="5" name="/LED_K" class="Default">
+      <node ref="D1" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/SIGNAL" class="Default">
+      <node ref="J1" pin="3" pinfunction="SIGNAL_3" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VOUT_1" pintype="output"/>
+    </net>
+    <net code="7" name="/U1_IOUT" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="IOUT_6" pintype="output"/>
+    </net>
+    <net code="8" name="/VDD_IN" class="Default">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="VDD_IN_2" pintype="power_out"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/VDD_PROTECTED" class="Default">
+      <node ref="D2" pin="1" pinfunction="K_1" pintype="power_out"/>
+      <node ref="U1" pin="1" pinfunction="VCC_1" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="VDD_5" pintype="power_in"/>
+    </net>
+    <net code="10" name="/VREF" class="Default">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VIN+_3" pintype="input"/>
+    </net>
+    <net code="11" name="unconnected-(U1-NC-Pad2)" class="Default">
+      <node ref="U1" pin="2" pinfunction="NC_2" pintype="no_connect"/>
+    </net>
+    <net code="12" name="unconnected-(U1-NC-Pad3)" class="Default">
+      <node ref="U1" pin="3" pinfunction="NC_3" pintype="no_connect"/>
+    </net>
+    <net code="13" name="unconnected-(U1-NC-Pad5)" class="Default">
+      <node ref="U1" pin="5" pinfunction="NC_5" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

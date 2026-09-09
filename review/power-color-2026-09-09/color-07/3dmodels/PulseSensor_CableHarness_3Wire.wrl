@@ -1,0 +1,30 @@
+#VRML V2.0 utf8
+# Local assembly-envelope representation only. The controlled cable length is
+# specified in the Variant A cable traveler rather than this short board model.
+Transform {
+  translation -0.890000 -1.181102 0.118110
+  children [
+    Shape {
+      appearance Appearance { material Material { diffuseColor 0.38 0.06 0.55 } }
+      geometry Box { size 0.393701 2.362205 0.236220 }
+    }
+  ]
+}
+Transform {
+  translation -0.010000 -1.191102 0.118110
+  children [
+    Shape {
+      appearance Appearance { material Material { diffuseColor 0.78 0.03 0.03 } }
+      geometry Box { size 0.393701 2.362205 0.236220 }
+    }
+  ]
+}
+Transform {
+  translation 0.900000 -1.171102 0.118110
+  children [
+    Shape {
+      appearance Appearance { material Material { diffuseColor 0.03 0.03 0.03 } }
+      geometry Box { size 0.393701 2.362205 0.236220 }
+    }
+  ]
+}

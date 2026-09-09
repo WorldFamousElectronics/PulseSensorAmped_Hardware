@@ -803,6 +803,577 @@
           "tracked": true
         }
       }
+    },
+    {
+      "number": 28,
+      "title": "Corrected component teaching concept",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/appearance-study-2026-09-09/component-teaching-concept.png",
+      "native": null,
+      "note": "Generated concept; full functions; internal testing note removed",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/appearance-study-2026-09-09/component-teaching-concept.png",
+          "sha256": "169195870681dc1bc28f362bdae13159c9e3e670f4eea85876b56de61ccbe883"
+        }
+      }
+    },
+    {
+      "number": 29,
+      "title": "Native feasibility study",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/appearance-study-2026-09-09/visual-log/07-native-current/native-review.png",
+      "native": null,
+      "note": "Earlier fixed-layout study; not the rerouted candidate",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/appearance-study-2026-09-09/visual-log/07-native-current/native-review.png",
+          "sha256": "22f0dafad69a88f4354a464f5f1ca35b06b612017ebfdc967344c1bd764c66dc"
+        }
+      }
+    },
+    {
+      "number": 30,
+      "title": "layout-03",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-03.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-03/placement-only.kicad_pcb",
+      "note": "Routing incomplete; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-03.png",
+          "sha256": "1948c47987a4cd4fafc5a7157d34e480bf73e65c36260684119b618296279c5f"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-03/placement-only.kicad_pcb",
+          "sha256": "48d489bb60a0bc773b30d0bcc327dc5600c10d708e7b791ccd934d345b17ba5f"
+        }
+      }
+    },
+    {
+      "number": 31,
+      "title": "layout-06",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-06.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-06/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Complete route; bias courtyard collision; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-06.png",
+          "sha256": "526a232e655b7fbe1ab8d05db0709daf57d192dd5b62dac68205c7422623e7b5"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-06/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "026ed702cf57937ba9a46804916a69a60a7e34dffd155327ca60e1679861a649"
+        }
+      }
+    },
+    {
+      "number": 32,
+      "title": "layout-07",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-07.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-07/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Black-mask appearance proof; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-07.png",
+          "sha256": "9c7d2b77f53218bd078e3161a8750a58e78edf7a0a8a75ca4b988b67f5d3b8d6"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-07/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "c3bd7db8b4041c64c13277865eb00f21d819e362a69590d35d16740ac6f2f35b"
+        }
+      }
+    },
+    {
+      "number": 33,
+      "title": "layout-08",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-08.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-08/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Bias collision resolved; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-08.png",
+          "sha256": "130f1c2e2ec377022a86ae55ee27d27d3620b2d89b664c5cddf482702df7c978"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-08/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "207d17253ca8ea1405ae06c3f230ad94d467fc7c0221159ae654703d793d2e5e"
+        }
+      }
+    },
+    {
+      "number": 34,
+      "title": "layout-09",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-09.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-09/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Filter courtyard collision; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-09.png",
+          "sha256": "95e408a039745e27009104074c5497a873527091aa83ad779698877f0348c04a"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-09/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "7c74041f2d919dc4496d9a016cb661d4636341ac3aa3238c766eb4413e9f7298"
+        }
+      }
+    },
+    {
+      "number": 35,
+      "title": "layout-10",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-10.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-10/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Filter spacing resolved; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-10.png",
+          "sha256": "a0ebf705b6755bbfc299017d3b15eb47cd9f533de44ececc750954cb31fe637d"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-10/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "91f64089a30f79f9f5eb48da3d8015a651bbcb7955120645d16de4eb3c4833dc"
+        }
+      }
+    },
+    {
+      "number": 36,
+      "title": "layout-74",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-74.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-74/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Ground island found; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-74.png",
+          "sha256": "43d6f6a97874308a4b8f77fa8ac0fce23d259d7b7095ec3f19e8f08d7ade4ca9"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-74/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "b66deb96ed155a84afb6436cb39805fec9c256ec2cb6cce8b2c1f069d1e54107"
+        }
+      }
+    },
+    {
+      "number": 37,
+      "title": "layout-76",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-76.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-76/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Ground stitching fixed continuity; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-76.png",
+          "sha256": "e464e76f7206407a76d8af9c618a581ecc92b6351fd6ba02302bd3e08793bc0a"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-76/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "0365347c2d117fa707bbac3a8298b3b0e37f6225d2589b86e03796d698db7a61"
+        }
+      }
+    },
+    {
+      "number": 38,
+      "title": "layout-77",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-77.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-77/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Single stitch insufficient; rejected; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-77.png",
+          "sha256": "b9564d1c89b9c1fac0a2ca09e57ab6a17108ecbbc27105cd40f20b5f3dcc15a1"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-77/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "93a0233a291195d5ef04c9446a26488d2d9dded5291c01a9213c68e16cde4b5c"
+        }
+      }
+    },
+    {
+      "number": 39,
+      "title": "layout-78",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-78.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-78/routing-incomplete.kicad_pcb",
+      "note": "Rotated LED/input resistors; incomplete route; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-78.png",
+          "sha256": "61ba2d677723a9bec9130344cabea0c197e8e09a43603ac882040b6ef6280cc2"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-78/routing-incomplete.kicad_pcb",
+          "sha256": "1bb0e90fec40758e320d02a46ce877fac5b762937d4e5d5c8a097264d471ddf8"
+        }
+      }
+    },
+    {
+      "number": 40,
+      "title": "layout-79",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-79.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-79/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Selected copper layout; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/layout-79.png",
+          "sha256": "0a03bba366009af71bacd9f666ec71ccc5733092983302ce1f6afddfe03e7c45"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/layout-79/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "25b63255863566acb45c88d0a6bb3d66717b3add58a07822fd6dd6d719e2de32"
+        }
+      }
+    },
+    {
+      "number": 41,
+      "title": "art-01",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-01.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-01/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "First native educational artwork; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-01.png",
+          "sha256": "b9a2fce213caa0fd648b1800da4a1b3ab31ca55761825a4a3837a03244959315"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-01/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "9e182e8c0ba55a431bcad5fc7ce7bee8ed9e407a614a91d3e43cfd601c84f181"
+        }
+      }
+    },
+    {
+      "number": 42,
+      "title": "art-02",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-02.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-02/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Fragmented copper guides; superseded; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-02.png",
+          "sha256": "a5f5fcf4d70c8d5bc99cf8dd4e552014dadffce04edf975e134ab8905ad428d3"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-02/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "c513df17dbca49f6226bb79e762eb7b22eebdbf48b67547f4bbefdc334c4a335"
+        }
+      }
+    },
+    {
+      "number": 43,
+      "title": "art-03",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-03.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-03/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Logical guides and LED arrow; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-03.png",
+          "sha256": "caf25a6b59559dfdc1779fa50566fffd6f5f562e69393dff89e347a1aac5c04c"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-03/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "c02ad9447d8b683fe3cd3789dc388a7da527634053c95be37ff5a104d32dbbbe"
+        }
+      }
+    },
+    {
+      "number": 44,
+      "title": "art-04",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-04.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-04/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Narrower full-height lettering; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-04.png",
+          "sha256": "1b10021646db67497f4ff3096890233272ffbea1ced61ffc1e7061a7ea988f49"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-04/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "e973fbe5befff2e8e914fd5a421b3b349480b2eb223c15f5854fa6d793e5bbf8"
+        }
+      }
+    },
+    {
+      "number": 45,
+      "title": "art-05",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-05.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-05/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Labels too far from parts; rejected; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-05.png",
+          "sha256": "93056bfdcda8d597f0046e3136b38237626d13677c4d7b8f1f77d3f2aa5b2810"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-05/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "678bfd46efda2d2a546e8edb011bf1d401d5381da05a97faed85ba0d69bf1e55"
+        }
+      }
+    },
+    {
+      "number": 46,
+      "title": "art-06",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-06.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-06/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Labels restored near parts; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-06.png",
+          "sha256": "3702cf27eb712f2e545a8a3e438ccdbf08e4051414d50428d756d8d1fcda0f57"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-06/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "cb62a3884998544aa52a52bdbc838d9e5787cfe88b4a4f7b0a15b2308bf63337"
+        }
+      }
+    },
+    {
+      "number": 47,
+      "title": "art-07",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-07.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-07/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "D1 reference separated from signal guide; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-07.png",
+          "sha256": "bd898e9e8b88d9cd243e976f09adf6f3e3e0cf101e1498bd93f492b3f5705881"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-07/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "5cb8a4fa3a54d93e2d50d609eca3d356bb3ed75e89433b4c1c1701d6110d4c7e"
+        }
+      }
+    },
+    {
+      "number": 48,
+      "title": "art-08",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-08.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-08/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Stronger strokes and polarity clearance; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/art-08.png",
+          "sha256": "6bd463a67f08f30e9627faacd85d171f7af5053208eecc14af229a339de374ff"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/art-08/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "15b1c0bc5d83198ac03528dc5e49f88394816559c1583068a02ab8cef97022c8"
+        }
+      }
+    },
+    {
+      "number": 49,
+      "title": "candidate-01",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/candidate-01.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/candidate-01/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Matched project; first verification run; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/candidate-01.png",
+          "sha256": "a58d70caf70d7fc37c8eec4f4f5a8c1258b436e50fbad1ebcac3002b25e9f445"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/candidate-01/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "73b216bb0b21b07c6fadc5b1774e5a869a1192ad838d30115af2098636ec3c90"
+        }
+      }
+    },
+    {
+      "number": 50,
+      "title": "candidate-02",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/candidate-02.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/candidate-02/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Failed metadata helper checkpoint; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/candidate-02.png",
+          "sha256": "29a661c7886bfe2d437fdd47fbd58ff0d7a37f8dbe4f7eb2b9d41ddf1849144b"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/candidate-02/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "73b216bb0b21b07c6fadc5b1774e5a869a1192ad838d30115af2098636ec3c90"
+        }
+      }
+    },
+    {
+      "number": 51,
+      "title": "candidate-03",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/candidate-03.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/candidate-03/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Failed metadata helper checkpoint; milestone back view",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/visual-log/candidate-03.png",
+          "sha256": "8aad293b7bdf85a7fb1801f41f544275d62cb33dcd5632ec2b14e97577461f2d"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/candidate-03/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "73b216bb0b21b07c6fadc5b1774e5a869a1192ad838d30115af2098636ec3c90"
+        }
+      }
+    },
+    {
+      "number": 52,
+      "title": "Candidate 05 \u2014 previous selected design",
+      "front": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/final-visuals/front.png",
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/final-visuals/back.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/candidate-05/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Verified electrical candidate; original 0.80 mm front x-height",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/final-visuals/front.png",
+          "sha256": "465d148adb30b6db433a41800024a1c9f91987a5d92a6012e485c86a56ed467b"
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/final-visuals/back.png",
+          "sha256": "e6a17dd37f1b8e79fdbd20fd4c19baf2d5d44f0cf7ed26a743649de4aab61943"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/sendoff-candidate-2026-09-09/candidate-05/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "035ff099151d272f77bd0d54e158b8264b486bc1b7c166ecc0c92d3a766d4b6a"
+        }
+      }
+    },
+    {
+      "number": 53,
+      "title": "Mono 06 \u2014 larger front / polarity draft",
+      "front": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-06/front.png",
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-06/back.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-06/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "1.35 mm front x-height; rounded heart; minus mark later widened",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-06/front.png",
+          "sha256": "d1a4d6f7cc443e5937de4094514c4ebcfbe46c3aca0ac83f2e43459b42a7ba3e"
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-06/back.png",
+          "sha256": "089094c2fdbe6faa30fa796f21aeefcaca1c5c7a8965505100c0642139e94dd9"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-06/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "5f7b1e478455cfd8a930a98856993048dd11010dda3f39609d6c4e7d06d41be8"
+        }
+      }
+    },
+    {
+      "number": 54,
+      "title": "Color 07 \u2014 first power-net print proof",
+      "front": null,
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-07/back.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-07/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "CAD vector positioning proof; not photorealistic",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-07/back.png",
+          "sha256": "f912e02c0f6c741defe7749578b95c0414adc70404d53c8374b7c2a0a131a287"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-07/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "e02c5f5ad6b1566b0a20012b3736d95b6f6cbddd278f83be3b3f9323e6234ede"
+        }
+      }
+    },
+    {
+      "number": 55,
+      "title": "Mono 08 \u2014 selected monochrome",
+      "front": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/front.png",
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/back.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Larger front, rounded tip and clear + / minus marks",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/front.png",
+          "sha256": "691efefa8b5ece1680df168e9da9f012d8e2d73950ae95f200ff02e0eda118fa"
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/back.png",
+          "sha256": "2a37e939abb7cf6de91471b2dc58a9899cd641cca73e0ee793ff9ffd2f66fd0a"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "81c828839639dedec8dbe961c669934e012c6552d0a52149237bedb2e42d5e43"
+        }
+      }
+    },
+    {
+      "number": 56,
+      "title": "Color 09 \u2014 selected PCBWay UV iteration",
+      "front": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-09/front.png",
+      "back": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-09/back.png",
+      "native": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-09/PulseSensor-JST-Educational.kicad_pcb",
+      "note": "Front: KiCad render. Back: CAD vector color-positioning proof",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-09/front.png",
+          "sha256": "dd1301dd66dd8e0ee5197bb3183211b2ad665267a4f47115ec30bed50aded8d1"
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-09/back.png",
+          "sha256": "6ca6f6d21062fd5d1f4960d8991c5547683c22ab0f973accb9e0935c43eca7f9"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-09/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "49c5f311b41d0a83ab04f18453b054e4cd788c5c3a867b194274378f3ce22592"
+        }
+      }
+    },
+    {
+      "number": 57,
+      "title": "Color 10 \u2014 explicit mask metadata, selected UV iteration",
+      "note": "Shared optical appearance uses mono-08; native mixed-mask render limitation retained in color-10/front.png. Color-09 is superseded.",
+      "sources": {
+        "front": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/mono-08/front.png",
+          "sha256": "691efefa8b5ece1680df168e9da9f012d8e2d73950ae95f200ff02e0eda118fa"
+        },
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-10/back.png",
+          "sha256": "6ca6f6d21062fd5d1f4960d8991c5547683c22ab0f973accb9e0935c43eca7f9"
+        },
+        "native": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-10/PulseSensor-JST-Educational.kicad_pcb",
+          "sha256": "4edcc883b57dc5c727ee5995cf974e39a71e713f779ac2780b3cc7e49c1a3883"
+        },
+        "native_renderer_limitation": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-10/front.png",
+          "sha256": "80cdd2f71dfcedfa1b59bde03ce9529322194e6518c9730f48c036302915b2a3"
+        }
+      }
     }
-  ]
+  ],
+  "append_2026_09_09": {
+    "new_sheets": [
+      "sheet-10.png",
+      "sheet-11.png",
+      "sheet-12.png",
+      "sheet-13.png",
+      "sheet-14.png",
+      "sheet-15.png",
+      "sheet-16.png",
+      "sheet-17.png",
+      "sheet-18.png",
+      "sheet-19.png",
+      "sheet-20.png"
+    ],
+    "notes": "Prior sheets 01\u201309 unchanged. The full routing-attempt ledger remains in sendoff-candidate visual-log. Some source images are local retained checkpoints.",
+    "selected_monochrome": "mono-08",
+    "selected_color": "color-10"
+  }
 }

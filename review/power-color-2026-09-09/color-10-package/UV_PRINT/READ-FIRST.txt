@@ -1,0 +1,8 @@
+REVIEW ONLY — supplier process proof and release approval pending.
+F is circuit BACK. B is optical FRONT.
+Print only F with supplied F-color-print artwork. PDF page and SVG/PNG art square: 15.875 x 15.875 mm. Center 100,100 in native CAD. Gerber/drill/CPL origin remains 92.0625,107.9375.
+F-color-print has no component bodies; back.png and back-positioning.svg are ALIGNMENT REFERENCES ONLY, NOT PRINT FILES.
+The ordinary F silkscreen Gerber is a position reference. Replace its white print with supplied UV artwork: do not add a second white overprint. B silkscreen remains conventional white.
+Requested F mask: white plus dark UV background. Requested B mask: black. Confirm mixed-side mask/process compatibility before manufacture. Do not change optical openings.
+No ink on solder openings. No copper exposure. Confirm registration, smallest printable UV features and RGB color conversion via supplier proof.
+Intended optical front shares mono-08 B geometry and mask; the retained native mixed-mask preview does not correctly display the requested black optical mask.

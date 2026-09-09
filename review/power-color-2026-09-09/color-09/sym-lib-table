@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PulseSensor_Amped")(type "KiCad")(uri "${KIPRJMOD}/PulseSensor_Amped.kicad_sym")(options "")(descr "PulseSensor Amped exact project symbols"))
+)

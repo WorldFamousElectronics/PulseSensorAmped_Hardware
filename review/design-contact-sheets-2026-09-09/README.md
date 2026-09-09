@@ -84,3 +84,33 @@ Run `build_contact_sheets.py` using Python with Pillow. It reads the approved WF
 ## Render QA and limitations
 
 All nine sheets were visually reviewed. Five missing/incorrectly named face views were rendered from unchanged existing native boards using KiCad; exact commands and before/after source-hash checks are in `rendered-missing-views/render-evidence.json`. Design 05 has no component models; design 06 has incomplete optical-sensor model coverage. These are source limitations, not assembly instructions. Design 04 also has incomplete legacy model coverage. No missing parts were invented. All native sources remain byte-for-byte unchanged.
+
+## Added artwork, routing and power/color revisions
+
+Original sheets 01–09 remain unchanged. This appendix adds corrected teaching artwork, retained native routing/artwork milestones, and the enlarged-front / color-print candidates. Metadata-helper failures are explicitly labeled. All partial routing checkpoints remain linked in the local visual ledger.
+
+[sheet-10.png](sheet-10.png)
+
+[sheet-11.png](sheet-11.png)
+
+[sheet-12.png](sheet-12.png)
+
+[sheet-13.png](sheet-13.png)
+
+[sheet-14.png](sheet-14.png)
+
+[sheet-15.png](sheet-15.png)
+
+[sheet-16.png](sheet-16.png)
+
+[sheet-17.png](sheet-17.png)
+
+[sheet-18.png](sheet-18.png)
+
+[sheet-19.png](sheet-19.png)
+
+[Current review](../power-color-2026-09-09/review.html) · [All routing attempts and native revision history](../sendoff-candidate-2026-09-09/visual-log/index.html)
+
+### Final selected comparison — sheet 20
+
+[Sheet 20](sheet-20.png) adds the final color-10 candidate. Color-09 on sheet 19 is superseded; its brown optical-front rendering is a retained renderer defect, not intended solder mask. Color-10 still encounters KiCad mixed-mask rendering limitations; the shared black optical-face design is shown from verified mono-08.

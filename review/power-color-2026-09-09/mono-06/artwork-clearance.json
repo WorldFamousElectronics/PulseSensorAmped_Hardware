@@ -1,0 +1,15 @@
+{
+  "minimums": {
+    "F": {
+      "opening_clearance_mm": 0.1536217281779527,
+      "edge_clearance_mm": 0.19162269184971992
+    },
+    "B": {
+      "opening_clearance_mm": 0.15843094215716422,
+      "edge_clearance_mm": 0.2241003991547126
+    }
+  },
+  "issues": [],
+  "target_opening_clearance_mm": 0.15,
+  "tented_vias": "No solder mask opening; separately kept away from back lettering."
+}

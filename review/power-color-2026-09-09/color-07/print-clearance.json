@@ -1,0 +1,9 @@
+{
+  "minimum_print_to_openings_mm": 0.1536217281779527,
+  "minimum_print_to_edge_mm": 0.19158582933565363,
+  "copper_and_mask_openings": "Unchanged. Color paths are ink over solder mask, not exposed conductors.",
+  "base": "White F mask plus dark UV background; B optical face remains black mask and white silk.",
+  "projections": "Solid F.Cu, dashed B.Cu; blue area is F ground plane. Geometry clipped at labels and solder openings.",
+  "status": "SUPPLIER_PRINT_REVIEW_REQUIRED",
+  "layer_count": 27
+}

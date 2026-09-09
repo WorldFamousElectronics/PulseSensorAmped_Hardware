@@ -1,0 +1,5 @@
+**/__pycache__/
+**/*.kicad_prl
+*.zip
+/mono-06-package/
+/color-09-package/
