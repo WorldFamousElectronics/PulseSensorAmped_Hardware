@@ -1,0 +1,2229 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "953fb8dc-b871-51be-acee-0c9d9c506d98")
+	(paper "A4")
+	(title_block
+		(title "PulseSensor Amped B — JST connector")
+		(date "2026-07-31")
+		(rev "DEV-B-01")
+		(company "World Famous Electronics LLC")
+		(comment 1 "DEVELOPMENT RELEASE CANDIDATE — not approved for order")
+		(comment 2 "Original WFE topology; exact manufacturer pin mapping")
+	)
+	(lib_symbols
+	(symbol "PulseSensor_Amped:R_H"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "R"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "R_H_1_1"
+			(rectangle
+				(start -1.270 -2.540)
+				(end 1.270 2.540)
+				(stroke (width 0.254) (type default))
+				(fill (type background))
+			)
+			(pin passive line
+				(at -3.810 0.000 0)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 3.810 0.000 180)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "PulseSensor_Amped:R_V"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "R"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "R_V_1_1"
+			(rectangle
+				(start -1.270 -2.540)
+				(end 1.270 2.540)
+				(stroke (width 0.254) (type default))
+				(fill (type background))
+			)
+			(pin passive line
+				(at 0.000 5.080 270)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 0.000 -5.080 90)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "PulseSensor_Amped:C_H"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "C"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "C_H_1_1"
+			(polyline
+				(pts (xy -0.635 -2.540) (xy -0.635 2.540))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(polyline
+				(pts (xy 0.635 -2.540) (xy 0.635 2.540))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin passive line
+				(at -3.810 0.000 0)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 3.810 0.000 180)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "PulseSensor_Amped:C_V"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "C"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "C_V_1_1"
+			(polyline
+				(pts (xy -2.540 -0.635) (xy 2.540 -0.635))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(polyline
+				(pts (xy -2.540 0.635) (xy 2.540 0.635))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin passive line
+				(at 0.000 3.810 270)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 0.000 -3.810 90)
+				(length 2.54)
+				(name "~" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "PulseSensor_Amped:NSR05F40NXT5G"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "NSR05F40NXT5G"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "NSR05F40NXT5G_1_1"
+			(polyline
+				(pts (xy -1.270 -2.540) (xy -1.270 2.540))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(polyline
+				(pts (xy 1.270 -2.540) (xy -1.270 0.000) (xy 1.270 2.540) (xy 1.270 -2.540))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin power_out line
+				(at -3.810 0.000 0)
+				(length 2.54)
+				(name "K" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 3.810 0.000 180)
+				(length 2.54)
+				(name "A" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "PulseSensor_Amped:AM2520ZGC09"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "AM2520ZGC09"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "AM2520ZGC09_1_1"
+			(polyline
+				(pts (xy -2.540 1.270) (xy 2.540 1.270))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(polyline
+				(pts (xy -2.540 -1.270) (xy 0.000 1.270) (xy 2.540 -1.270) (xy -2.540 -1.270))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin passive line
+				(at 0.000 3.810 270)
+				(length 2.54)
+				(name "A" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at 0.000 -3.810 90)
+				(length 2.54)
+				(name "K" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "PulseSensor_Amped:APDS-9008-020"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "APDS-9008-020"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "APDS-9008-020_1_1"
+			(rectangle
+				(start -2.540 -3.810)
+				(end 2.540 3.810)
+				(stroke (width 0.254) (type default))
+				(fill (type background))
+			)
+			(circle
+				(center 0.000 0.000)
+				(radius 0.800)
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin power_in line
+				(at -5.080 2.540 0)
+				(length 2.54)
+				(name "VCC" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin no_connect line
+				(at 2.540 6.350 270)
+				(length 2.54)
+				(name "NC" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin no_connect line
+				(at 0.000 6.350 270)
+				(length 2.54)
+				(name "NC" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "3" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin power_in line
+				(at -5.080 -2.540 0)
+				(length 2.54)
+				(name "GND" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "4" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin no_connect line
+				(at 0.000 -6.350 90)
+				(length 2.54)
+				(name "NC" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "5" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin output line
+				(at 5.080 0.000 180)
+				(length 2.54)
+				(name "IOUT" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "6" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "PulseSensor_Amped:MCP6001T-I_OT"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "MCP6001T-I/OT"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "MCP6001T-I_OT_1_1"
+			(polyline
+				(pts (xy -2.540 -3.810) (xy -2.540 3.810) (xy 3.810 0.000) (xy -2.540 -3.810))
+				(stroke (width 0.254) (type default))
+				(fill (type none))
+			)
+			(pin output line
+				(at 6.350 0.000 180)
+				(length 2.54)
+				(name "VOUT" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin power_in line
+				(at 0.000 -6.350 90)
+				(length 2.54)
+				(name "VSS" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin input line
+				(at -5.080 -2.540 0)
+				(length 2.54)
+				(name "VIN+" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "3" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin input line
+				(at -5.080 2.540 0)
+				(length 2.54)
+				(name "VIN-" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "4" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin power_in line
+				(at 0.000 6.350 270)
+				(length 2.54)
+				(name "VDD" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "5" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "PulseSensor_Amped:SM03B-SRSS-TB"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 0.000 -5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "SM03B-SRSS-TB"
+			(at 0.000 5.080 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0.000 0.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(symbol "SM03B-SRSS-TB_1_1"
+			(rectangle
+				(start -2.540 -5.080)
+				(end 2.540 5.080)
+				(stroke (width 0.254) (type default))
+				(fill (type background))
+			)
+			(pin power_out line
+				(at -5.080 -2.540 0)
+				(length 2.54)
+				(name "GND" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "1" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin power_out line
+				(at -5.080 0.000 0)
+				(length 2.54)
+				(name "VDD_IN" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "2" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+			(pin passive line
+				(at -5.080 2.540 0)
+				(length 2.54)
+				(name "SIGNAL" (effects
+				(font (size 1.27 1.27))
+			))
+				(number "3" (effects
+				(font (size 1.27 1.27))
+			))
+			)
+		)
+		(embedded_fonts no)
+	)
+	)
+	(wire
+		(pts (xy 17.780 38.100) (xy 10.160 38.100))
+		(stroke (width 0) (type solid))
+		(uuid "57079919-cf1d-51ee-8a31-4cc81106955e")
+	)
+	(wire
+		(pts (xy 17.780 35.560) (xy 10.160 35.560))
+		(stroke (width 0) (type solid))
+		(uuid "02ceb745-7399-54f1-9ee9-7f08632702e7")
+	)
+	(wire
+		(pts (xy 17.780 33.020) (xy 10.160 33.020))
+		(stroke (width 0) (type solid))
+		(uuid "c0caefb0-ce40-5626-9d18-51e2e17506ba")
+	)
+	(wire
+		(pts (xy 57.150 31.750) (xy 57.150 25.400))
+		(stroke (width 0) (type solid))
+		(uuid "c150c07d-6ce3-5dec-9877-e58fd99433dc")
+	)
+	(wire
+		(pts (xy 57.150 39.370) (xy 57.150 49.530))
+		(stroke (width 0) (type solid))
+		(uuid "2c1679f7-7a01-5044-8dd2-a1ea7de900f0")
+	)
+	(wire
+		(pts (xy 57.150 59.690) (xy 57.150 64.770))
+		(stroke (width 0) (type solid))
+		(uuid "126f2a66-468d-5f83-a233-fc2bf1d9933e")
+	)
+	(wire
+		(pts (xy 87.630 25.400) (xy 80.010 25.400))
+		(stroke (width 0) (type solid))
+		(uuid "7d6afa33-f466-5dd3-b6bb-5bf8135582f1")
+	)
+	(wire
+		(pts (xy 95.250 25.400) (xy 102.870 25.400))
+		(stroke (width 0) (type solid))
+		(uuid "05b05b6c-017b-5803-a271-340f6e89381d")
+	)
+	(wire
+		(pts (xy 127.000 31.750) (xy 127.000 25.400))
+		(stroke (width 0) (type solid))
+		(uuid "b44c4275-9832-53f4-8036-84541c9ba039")
+	)
+	(wire
+		(pts (xy 127.000 39.370) (xy 127.000 44.450))
+		(stroke (width 0) (type solid))
+		(uuid "9a7b0662-28aa-5a1a-93aa-b7b773bbfbcf")
+	)
+	(wire
+		(pts (xy 33.020 96.520) (xy 19.050 96.520))
+		(stroke (width 0) (type solid))
+		(uuid "b369acf6-6699-5b9f-ac83-20b102a93163")
+	)
+	(wire
+		(pts (xy 33.020 101.600) (xy 25.400 101.600))
+		(stroke (width 0) (type solid))
+		(uuid "8a437e66-2f31-5f03-8014-049784e2d171")
+	)
+	(wire
+		(pts (xy 43.180 99.060) (xy 53.340 99.060))
+		(stroke (width 0) (type solid))
+		(uuid "80a30561-9a8e-529d-b8e2-28532c4bea5f")
+	)
+	(wire
+		(pts (xy 53.340 99.060) (xy 62.230 99.060))
+		(stroke (width 0) (type solid))
+		(uuid "453742c6-76a9-55cc-aeb2-8ee59ddb79e5")
+	)
+	(wire
+		(pts (xy 69.850 99.060) (xy 76.200 99.060))
+		(stroke (width 0) (type solid))
+		(uuid "6442cd2b-4825-5f8a-9b1d-04b2f98e2c62")
+	)
+	(wire
+		(pts (xy 76.200 99.060) (xy 87.630 99.060))
+		(stroke (width 0) (type solid))
+		(uuid "0bebe64f-c154-5042-a63c-001a7f06c56b")
+	)
+	(wire
+		(pts (xy 87.630 99.060) (xy 104.140 99.060))
+		(stroke (width 0) (type solid))
+		(uuid "3001c99e-70dd-56b8-9680-de2d26004438")
+	)
+	(wire
+		(pts (xy 53.340 99.060) (xy 53.340 114.300))
+		(stroke (width 0) (type solid))
+		(uuid "6af3946d-5254-5108-961d-8870fb5a0ae1")
+	)
+	(wire
+		(pts (xy 87.630 99.060) (xy 87.630 115.570))
+		(stroke (width 0) (type solid))
+		(uuid "09dc51b5-95c1-5a0a-9253-f11457886084")
+	)
+	(wire
+		(pts (xy 53.340 124.460) (xy 53.340 129.540))
+		(stroke (width 0) (type solid))
+		(uuid "2a3e0806-cf58-5ad1-8698-3c6952759554")
+	)
+	(wire
+		(pts (xy 87.630 123.190) (xy 87.630 129.540))
+		(stroke (width 0) (type solid))
+		(uuid "067009a9-5392-5067-9cf1-9db707e491e9")
+	)
+	(wire
+		(pts (xy 111.760 99.060) (xy 120.650 99.060))
+		(stroke (width 0) (type solid))
+		(uuid "624e5a53-9ec6-5044-b321-cdac70658207")
+	)
+	(wire
+		(pts (xy 120.650 99.060) (xy 120.650 86.360))
+		(stroke (width 0) (type solid))
+		(uuid "dad3d2b2-2be7-53b6-81f9-016e4c69f082")
+	)
+	(wire
+		(pts (xy 120.650 86.360) (xy 135.890 86.360))
+		(stroke (width 0) (type solid))
+		(uuid "7aa75ab1-d4e1-572d-970d-0ca1194c0736")
+	)
+	(wire
+		(pts (xy 120.650 99.060) (xy 120.650 116.840))
+		(stroke (width 0) (type solid))
+		(uuid "a1b0f392-9758-5c3c-b67d-61368c93af33")
+	)
+	(wire
+		(pts (xy 120.650 116.840) (xy 135.890 116.840))
+		(stroke (width 0) (type solid))
+		(uuid "1ebd466a-fb65-5497-9dfb-93300cc0468e")
+	)
+	(wire
+		(pts (xy 143.510 86.360) (xy 180.340 86.360))
+		(stroke (width 0) (type solid))
+		(uuid "df464b39-0a16-5e64-aaa6-98cee9c56483")
+	)
+	(wire
+		(pts (xy 180.340 86.360) (xy 180.340 96.520))
+		(stroke (width 0) (type solid))
+		(uuid "d8e31d8d-b7b6-53ed-aa2e-afc4150b3f41")
+	)
+	(wire
+		(pts (xy 180.340 96.520) (xy 198.120 96.520))
+		(stroke (width 0) (type solid))
+		(uuid "b10f5161-d6b7-50a2-9137-1d389251a2e0")
+	)
+	(wire
+		(pts (xy 180.340 69.850) (xy 180.340 86.360))
+		(stroke (width 0) (type solid))
+		(uuid "4b6eabd3-0f89-5440-9199-4eeb2d08cf9b")
+	)
+	(wire
+		(pts (xy 187.960 69.850) (xy 214.630 69.850))
+		(stroke (width 0) (type solid))
+		(uuid "e57f1c6c-43c3-520d-840a-f7c683c52ff1")
+	)
+	(wire
+		(pts (xy 214.630 69.850) (xy 214.630 99.060))
+		(stroke (width 0) (type solid))
+		(uuid "bf8c8614-7058-50b4-92e4-55fb0e1669f7")
+	)
+	(wire
+		(pts (xy 214.630 99.060) (xy 209.550 99.060))
+		(stroke (width 0) (type solid))
+		(uuid "fa36a71e-f09c-5c35-8f05-70454878e974")
+	)
+	(wire
+		(pts (xy 143.510 116.840) (xy 165.100 116.840))
+		(stroke (width 0) (type solid))
+		(uuid "33da6439-d95c-56d8-bd62-97e0848aa0b9")
+	)
+	(wire
+		(pts (xy 165.100 106.680) (xy 165.100 116.840))
+		(stroke (width 0) (type solid))
+		(uuid "d8fe49ff-19b9-5f0d-a833-155b0a8caa54")
+	)
+	(wire
+		(pts (xy 165.100 116.840) (xy 165.100 121.920))
+		(stroke (width 0) (type solid))
+		(uuid "fd9d396d-7fa4-5c4d-8284-74a972db5141")
+	)
+	(wire
+		(pts (xy 165.100 116.840) (xy 190.500 116.840))
+		(stroke (width 0) (type solid))
+		(uuid "9298147f-b7b6-5c77-bd4d-bddf1d8decb3")
+	)
+	(wire
+		(pts (xy 190.500 116.840) (xy 190.500 101.600))
+		(stroke (width 0) (type solid))
+		(uuid "cb2cc964-974b-5583-b34d-cd9e29163943")
+	)
+	(wire
+		(pts (xy 190.500 101.600) (xy 198.120 101.600))
+		(stroke (width 0) (type solid))
+		(uuid "2574d79c-5a03-5c96-8592-031eb21d5e81")
+	)
+	(wire
+		(pts (xy 165.100 96.520) (xy 165.100 91.440))
+		(stroke (width 0) (type solid))
+		(uuid "b6756a1a-1646-5724-b527-acdb628ee2fb")
+	)
+	(wire
+		(pts (xy 165.100 132.080) (xy 165.100 137.160))
+		(stroke (width 0) (type solid))
+		(uuid "bb20f084-43c9-5cb0-b784-7af50c9cd0f9")
+	)
+	(wire
+		(pts (xy 203.200 92.710) (xy 191.770 92.710))
+		(stroke (width 0) (type solid))
+		(uuid "5683a118-41db-5423-9474-b3451fb66668")
+	)
+	(wire
+		(pts (xy 203.200 105.410) (xy 203.200 115.570))
+		(stroke (width 0) (type solid))
+		(uuid "f9da8707-325c-57f6-9d82-67dbdf511731")
+	)
+	(wire
+		(pts (xy 209.550 99.060) (xy 222.250 99.060))
+		(stroke (width 0) (type solid))
+		(uuid "f4da92e6-1fc9-5d93-9ca3-39af4d66648e")
+	)
+	(label "GND"
+		(at 10.160 38.100 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "67a85352-b09a-55b4-a1a6-b93234d73549")
+	)
+	(label "VDD_IN"
+		(at 10.160 35.560 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "fce6c0bc-6cb8-5ce1-b08b-556f7269155c")
+	)
+	(label "SIGNAL"
+		(at 10.160 33.020 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "d2c26c24-51a4-57d2-a0bc-f1a24353b264")
+	)
+	(label "VDD_IN"
+		(at 57.150 25.400 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "ab76223b-0902-5a28-b44c-99dad7bb2913")
+	)
+	(label "LED_K"
+		(at 57.150 44.450 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "b89fcf45-7558-521a-b48d-ef092c064f9b")
+	)
+	(label "GND"
+		(at 57.150 64.770 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "13032505-07bf-5788-a131-1c8991c8cf24")
+	)
+	(label "VDD_PROTECTED"
+		(at 80.010 25.400 180)
+		(effects
+			(font (size 1.27 1.27))
+			(justify right bottom)
+		)
+		(uuid "5ac48fc7-6756-522a-9ddf-dbfaf6c9e090")
+	)
+	(label "VDD_IN"
+		(at 102.870 25.400 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "b2a44601-e57b-5a63-b022-fb08e7c8e642")
+	)
+	(label "VDD_IN"
+		(at 127.000 25.400 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "45dab660-b797-5e17-88ae-f18d431d11e4")
+	)
+	(label "GND"
+		(at 127.000 44.450 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "ac4ba407-793d-5c4c-b47d-79602659b689")
+	)
+	(label "VDD_PROTECTED"
+		(at 19.050 96.520 180)
+		(effects
+			(font (size 1.27 1.27))
+			(justify right bottom)
+		)
+		(uuid "fe139324-8076-5a29-bcf6-b6d6b0142654")
+	)
+	(label "GND"
+		(at 25.400 101.600 180)
+		(effects
+			(font (size 1.27 1.27))
+			(justify right bottom)
+		)
+		(uuid "c3925845-41c2-5865-9718-e3cb53985118")
+	)
+	(label "U1_IOUT"
+		(at 53.340 106.680 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "4a723558-2fb1-5deb-8637-a65dd74b7b56")
+	)
+	(label "FILTER_STAGE_1"
+		(at 76.200 99.060 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "83e5f027-be61-5844-9f43-ac32f4a5a434")
+	)
+	(label "FILTER_STAGE_2"
+		(at 120.650 106.680 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "03fbcf20-d2d1-5dcd-a2f2-ea2932b1acc2")
+	)
+	(label "AMP_INVERTING"
+		(at 180.340 86.360 180)
+		(effects
+			(font (size 1.27 1.27))
+			(justify right bottom)
+		)
+		(uuid "827eb357-8003-5b92-bec4-1caa515a6edd")
+	)
+	(label "VREF"
+		(at 165.100 116.840 180)
+		(effects
+			(font (size 1.27 1.27))
+			(justify right bottom)
+		)
+		(uuid "c3eaa6b6-5809-5d43-aa4a-d6891fe1966b")
+	)
+	(label "GND"
+		(at 53.340 129.540 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "9ee6afb1-67cc-5030-8cc9-bdcf856d6f50")
+	)
+	(label "GND"
+		(at 87.630 129.540 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "8e8f6313-b28b-59ba-93b0-c617b0cd3190")
+	)
+	(label "VDD_IN"
+		(at 165.100 91.440 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "375d7909-5c1e-559e-b11c-ba8283d5f8a2")
+	)
+	(label "GND"
+		(at 165.100 137.160 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "1634bdca-1b69-5ee1-b7c9-3ef56a29482d")
+	)
+	(label "VDD_PROTECTED"
+		(at 191.770 92.710 180)
+		(effects
+			(font (size 1.27 1.27))
+			(justify right bottom)
+		)
+		(uuid "7528d643-600e-59ad-97ce-1fc2957ba271")
+	)
+	(label "GND"
+		(at 203.200 115.570 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "c5287505-fd23-5844-9947-ab62d8656315")
+	)
+	(label "SIGNAL"
+		(at 222.250 99.060 0)
+		(effects
+			(font (size 1.27 1.27))
+			(justify left bottom)
+		)
+		(uuid "3e2198d4-02a4-53db-88f5-2987872be0d6")
+	)
+	(no_connect
+		(at 40.640 92.710)
+		(uuid "a7963654-ac06-50de-9c3d-e5eb48f3c21f")
+	)
+	(no_connect
+		(at 38.100 92.710)
+		(uuid "864648bd-cee7-5c67-9819-21cdfb361667")
+	)
+	(no_connect
+		(at 38.100 105.410)
+		(uuid "ba371d95-840d-5f89-b7c4-f048de07c53f")
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:SM03B-SRSS-TB")
+		(at 22.860 35.560 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "57ebcf86-26a4-5192-af2c-af4ec86ff196")
+		(property "Reference" "J1"
+			(at 22.860 26.670 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "SM03B-SRSS-TB"
+			(at 22.860 44.450 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal"
+			(at 22.860 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 22.860 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "JST SH 3-circuit 1.0 mm side-entry SMT header"
+			(at 22.860 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 22.860 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "SM03B-SRSS-TB"
+			(at 22.860 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "c578d90c-802c-57af-b59b-17b8e42b39be"))
+		(pin "2" (uuid "e47f702e-1c7b-5d19-a2e7-c824071961d4"))
+		(pin "3" (uuid "3b676991-0c8a-5890-8d04-596c80f5e328"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:AM2520ZGC09")
+		(at 57.150 35.560 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "31ca823b-2a9e-5512-8c7d-95d7cbe618c2")
+		(property "Reference" "D1"
+			(at 57.150 30.480 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "AM2520ZGC09"
+			(at 57.150 40.640 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:AM2520ZGC09_ReverseMount_OriginalAperture"
+			(at 57.150 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/spec/am2520zgc09.pdf"
+			(at 57.150 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Reverse-mount green LED, original optical aperture"
+			(at 57.150 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Kingbright"
+			(at 57.150 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "AM2520ZGC09"
+			(at 57.150 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "ee516afd-e964-58a3-9fce-8e61eb3a439f"))
+		(pin "2" (uuid "f0d02179-75b5-5434-9943-4e61ef9f525d"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:R_V")
+		(at 57.150 54.610 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4149dff3-c729-58a1-848b-cccbd595308c")
+		(property "Reference" "R1"
+			(at 53.340 54.610 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "EVT_MATRIX"
+			(at 62.230 54.610 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:R_0402_Educational"
+			(at 57.150 54.610 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "../constraints/r1-screening-matrix.json"
+			(at 57.150 54.610 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "LED current limiting resistor; populate exact value/MPN per controlled 10-board EVT screening matrix"
+			(at 57.150 54.610 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 57.150 54.610 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "SEE_R1_SCREENING_MATRIX"
+			(at 57.150 54.610 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "6017400f-e601-539b-82df-1b5b4fc38167"))
+		(pin "2" (uuid "2b64f4cf-4f6f-5563-b8fd-459ce7279cc8"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:NSR05F40NXT5G")
+		(at 91.440 25.400 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c540fcdc-01f5-5064-9f40-ae31a2e669d5")
+		(property "Reference" "D2"
+			(at 91.440 20.320 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "NSR05F40NXT5G"
+			(at 91.440 30.480 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:NSR05F40NXT5G_DSN2"
+			(at 91.440 25.400 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/nsr05f40-d.pdf"
+			(at 91.440 25.400 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "40 V 500 mA Schottky barrier diode, DSN2"
+			(at 91.440 25.400 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "onsemi"
+			(at 91.440 25.400 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "NSR05F40NXT5G"
+			(at 91.440 25.400 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "c11a4174-504c-51ee-9e3a-ba997601d395"))
+		(pin "2" (uuid "3f23eeca-0aa5-587a-b7aa-1e5dc5e82412"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:C_V")
+		(at 127.000 35.560 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f84246b2-6af1-55ce-bb01-f165931fca18")
+		(property "Reference" "C5"
+			(at 123.190 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 132.080 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:C_0402_Educational"
+			(at 127.000 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127.000 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Raw input bypass capacitor"
+			(at 127.000 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 127.000 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61A225KE01D"
+			(at 127.000 35.560 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "63522ca9-d20d-55bf-9ad2-895574b0432f"))
+		(pin "2" (uuid "da2db35b-1cc3-5732-8750-ff9b64067850"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:APDS-9008-020")
+		(at 38.100 99.060 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a36893fb-fcbc-5ad0-9f36-92cdeeb2e67e")
+		(property "Reference" "U1"
+			(at 38.100 88.900 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "APDS-9008-020"
+			(at 38.100 109.220 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:APDS-9008-020"
+			(at 38.100 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://docs.broadcom.com/doc/AV02-1169EN"
+			(at 38.100 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Miniature analog-output ambient light photo sensor"
+			(at 38.100 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Broadcom"
+			(at 38.100 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "APDS-9008-020"
+			(at 38.100 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "b20a6d84-472e-520c-8ca5-01c51bec52ce"))
+		(pin "2" (uuid "f4d14847-697e-57df-85d0-d9e4b120a67e"))
+		(pin "3" (uuid "feaeada0-0f8d-525e-9d02-e07a7f62c1ef"))
+		(pin "4" (uuid "d588a60a-af3a-5b46-9fd5-a604e624434e"))
+		(pin "5" (uuid "60e8f777-1935-5c14-b8be-c4fcddad0cf7"))
+		(pin "6" (uuid "7df9f09b-3b1e-54c5-9d97-44ce534e9862"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:C_H")
+		(at 66.040 99.060 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "213ce67d-b33a-5d09-984e-7ae99e7d497d")
+		(property "Reference" "C2"
+			(at 66.040 93.980 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 66.040 104.140 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:C_0402_Educational"
+			(at 66.040 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.040 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Original signal filter capacitor"
+			(at 66.040 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 66.040 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R60J475ME47D"
+			(at 66.040 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "efa140d4-6ea4-5b48-98d3-a7cfd5531a7f"))
+		(pin "2" (uuid "6221181e-a2ce-5882-812b-a11c04f562c3"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:R_V")
+		(at 53.340 119.380 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "26323e56-4e32-5f6d-978a-7e2f32b20153")
+		(property "Reference" "R2"
+			(at 49.530 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "12K"
+			(at 58.420 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:R_0402_Educational"
+			(at 53.340 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.340 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "APDS load resistor"
+			(at 53.340 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 53.340 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-0712KL"
+			(at 53.340 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "18e8c7cb-8d2c-508d-a921-1671989e8b06"))
+		(pin "2" (uuid "88fbecee-4473-560e-87a6-d990131d7e1b"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:C_V")
+		(at 87.630 119.380 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5302f982-25e7-5a5f-8d33-5b77584a26d6")
+		(property "Reference" "C1"
+			(at 83.820 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 92.710 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:C_0402_Educational"
+			(at 87.630 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 87.630 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Original signal filter capacitor"
+			(at 87.630 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 87.630 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R60J475ME47D"
+			(at 87.630 119.380 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "ebeb9777-5370-5234-9fbf-d134a852ad06"))
+		(pin "2" (uuid "ace82f85-8097-5cc1-9209-93f008eb3775"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:C_H")
+		(at 107.950 99.060 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f5839546-e1fd-5a93-8daa-e6bfe92b2bac")
+		(property "Reference" "C3"
+			(at 107.950 93.980 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 107.950 104.140 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:C_0402_Educational"
+			(at 107.950 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 107.950 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Original signal filter capacitor"
+			(at 107.950 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 107.950 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R60J475ME47D"
+			(at 107.950 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "fd3202b7-0eed-52b6-9e15-e0d258b4ac85"))
+		(pin "2" (uuid "ffbaaa08-118c-5dfe-8258-0867ec6eadf1"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:R_H")
+		(at 139.700 86.360 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "436dd564-1849-543f-927d-1a9443c98838")
+		(property "Reference" "R5"
+			(at 139.700 81.280 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "10K"
+			(at 139.700 91.440 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:R_0402_Educational"
+			(at 139.700 86.360 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.700 86.360 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Op-amp inverting input resistor"
+			(at 139.700 86.360 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 139.700 86.360 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-0710KL"
+			(at 139.700 86.360 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "11d066c8-5e80-5a6d-877d-52f57d3dca69"))
+		(pin "2" (uuid "60dc481c-441e-5900-b4c4-0a0e8549629b"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:C_H")
+		(at 139.700 116.840 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2d2dafc7-b2c6-5bf0-9204-84f8336ab7a6")
+		(property "Reference" "C4"
+			(at 139.700 111.760 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 139.700 121.920 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:C_0402_Educational"
+			(at 139.700 116.840 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.700 116.840 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Original signal coupling capacitor"
+			(at 139.700 116.840 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 139.700 116.840 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61A225KE01D"
+			(at 139.700 116.840 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "d5e525c3-0c3e-5085-9aa6-9f58dfe6c50c"))
+		(pin "2" (uuid "cb8d6836-8d3d-5968-a2e7-637ca06fc6fc"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:R_V")
+		(at 165.100 101.600 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5d0f148d-ad75-59d9-bf6e-63f7d3cc6d61")
+		(property "Reference" "R4"
+			(at 161.290 101.600 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "100K"
+			(at 170.180 101.600 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:R_0402_Educational"
+			(at 165.100 101.600 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.100 101.600 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Mid-supply divider upper resistor"
+			(at 165.100 101.600 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 165.100 101.600 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-07100KL"
+			(at 165.100 101.600 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "6fa3bb74-f0a5-5ef8-840b-1d1a5f455afa"))
+		(pin "2" (uuid "860a269c-3d7b-51cc-999d-eb3fb6fbfbc7"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:R_V")
+		(at 165.100 127.000 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "74960105-329c-5051-aa0e-57f6d838f2bb")
+		(property "Reference" "R3"
+			(at 161.290 127.000 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "100K"
+			(at 170.180 127.000 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:R_0402_Educational"
+			(at 165.100 127.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.100 127.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Mid-supply divider lower resistor"
+			(at 165.100 127.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 165.100 127.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-07100KL"
+			(at 165.100 127.000 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "48833500-09c3-5dca-85fd-f005b7ce4172"))
+		(pin "2" (uuid "ac50e3a0-caab-51f2-9c56-905a74f5f3db"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:R_H")
+		(at 184.150 69.850 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "07f59ca5-cb3e-55d0-bf12-5290651ebe5e")
+		(property "Reference" "R6"
+			(at 184.150 64.770 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "3.3M"
+			(at 184.150 74.930 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "PulseSensor_Amped:R_0402_Educational"
+			(at 184.150 69.850 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.150 69.850 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "Op-amp feedback resistor"
+			(at 184.150 69.850 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 184.150 69.850 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-073M3L"
+			(at 184.150 69.850 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "7b4b0b0a-960f-5e17-af02-fc58ec9aadf9"))
+		(pin "2" (uuid "aeee3010-a31d-5d98-b8c3-1413ad32dcb2"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PulseSensor_Amped:MCP6001T-I_OT")
+		(at 203.200 99.060 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "da7cb981-472b-56f8-9faa-f5e6b6489ad3")
+		(property "Reference" "U2"
+			(at 203.200 88.900 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Value" "MCP6001T-I/OT"
+			(at 203.200 109.220 0)
+			(effects
+				(font (size 1.27 1.27))
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at 203.200 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf"
+			(at 203.200 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Description" "1 MHz rail-to-rail input/output op amp, SOT-23-5"
+			(at 203.200 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Microchip"
+			(at 203.200 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(property "MPN" "MCP6001T-I/OT"
+			(at 203.200 99.060 0)
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
+		)
+		(pin "1" (uuid "ccd26991-8eb5-50c7-96bd-2434c5d57ae7"))
+		(pin "2" (uuid "fb3b38f5-052f-5738-b599-b3d7939d3df2"))
+		(pin "3" (uuid "d01630e5-91dd-5fae-bcb0-580acd1d920e"))
+		(pin "4" (uuid "e40e27e1-d458-5347-9ee3-2c96a292d4eb"))
+		(pin "5" (uuid "0ee14133-d423-532a-b240-36c5747b0291"))
+		(instances
+			(project "PulseSensor-Amped-B-JST"
+				(path "/953fb8dc-b871-51be-acee-0c9d9c506d98"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/" (page "1"))
+	)
+	(embedded_fonts no)
+)

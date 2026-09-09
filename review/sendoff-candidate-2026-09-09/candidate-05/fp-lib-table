@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PulseSensor_Amped")(type "KiCad")(uri "${KIPRJMOD}/PulseSensor_Amped.pretty")(options "")(descr "PulseSensor Amped exact project footprints"))
+  (lib (name "Resistor_SMD")(type "KiCad")(uri "${KICAD10_FOOTPRINT_DIR}/Resistor_SMD.pretty")(options "")(descr "KiCad 10 official resistor footprints"))
+  (lib (name "Capacitor_SMD")(type "KiCad")(uri "${KICAD10_FOOTPRINT_DIR}/Capacitor_SMD.pretty")(options "")(descr "KiCad 10 official capacitor footprints"))
+  (lib (name "Package_TO_SOT_SMD")(type "KiCad")(uri "${KICAD10_FOOTPRINT_DIR}/Package_TO_SOT_SMD.pretty")(options "")(descr "KiCad 10 official SOT footprints"))
+  (lib (name "Connector_JST")(type "KiCad")(uri "${KICAD10_FOOTPRINT_DIR}/Connector_JST.pretty")(options "")(descr "KiCad 10 official JST footprints"))
+)

@@ -1,0 +1,9 @@
+(version 1)
+
+# The exact JST side-entry connector is intentionally placed at the circular
+# edge so its mating opening is accessible. Its mechanical anchor pads remain
+# on-board with approximately 0.36 mm geometric edge clearance.
+(rule "JST mechanical anchors at side-entry edge"
+  (constraint edge_clearance (min 0.25mm))
+  (condition "A.Reference == 'J1' && A.Pad_Number == 'MP' && B.Layer == 'Edge.Cuts'")
+)

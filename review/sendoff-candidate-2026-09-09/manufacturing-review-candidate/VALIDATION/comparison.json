@@ -1,0 +1,40 @@
+{
+  "classification": "DEVELOPMENT",
+  "workstation": "PulseSilverBookPro",
+  "checks": {
+    "references_equal": true,
+    "pin_net_connectivity_unchanged": true,
+    "all_pad_shapes_sizes_and_local_geometry_unchanged": true,
+    "fixed_optics_and_connector_positions_sides_rotations_unchanged": true,
+    "board_outline_unchanged": true,
+    "packaged_native_matches_reviewed_native": true,
+    "schematic_connectivity_matches": true,
+    "cpl_exactly_16_components": true,
+    "cpl_positive_common_origin": true,
+    "fixed_components_cpl_matches_submitted_cpl": true,
+    "controlled_bom_unchanged": true,
+    "controlled_population_unchanged": true,
+    "zero_unconnected": true,
+    "zero_schematic_parity_issues": true,
+    "only_existing_optical_exception": true,
+    "erc_clear": true
+  },
+  "source_board_sha256": "b439dcff82c4553731ac35ebcd27276899f8dfbbfcd35f2351d8101497eb4ad4",
+  "candidate_board_sha256": "035ff099151d272f77bd0d54e158b8264b486bc1b7c166ecc0c92d3a766d4b6a",
+  "moved_parts": [
+    "R1",
+    "R2",
+    "C5",
+    "C4",
+    "C2",
+    "R3",
+    "R5",
+    "C3",
+    "R4",
+    "C1",
+    "R6",
+    "D2"
+  ],
+  "net_alias_note": "Leading / matches KiCad schematic hierarchy; U1 NC pads have distinct unconnected-net names. Electrical connectivity is unchanged.",
+  "status": "GEOMETRY_AND_ELECTRICAL_COMPARISON_PASSED"
+}

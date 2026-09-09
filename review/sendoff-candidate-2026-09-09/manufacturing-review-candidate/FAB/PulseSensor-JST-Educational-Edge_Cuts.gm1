@@ -1,0 +1,28 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,10.0.5*
+G04 #@! TF.CreationDate,2026-09-09T16:43:17-04:00*
+G04 #@! TF.ProjectId,PulseSensor-JST-Educational,50756c73-6553-4656-9e73-6f722d4a5354,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.5) date 2026-09-09 16:43:17*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.100000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X15875000Y7937500D02*
+G75*
+G02*
+X0Y7937500I-7937500J0D01*
+G01*
+X0Y7937500D02*
+G75*
+G02*
+X15875000Y7937500I7937500J0D01*
+G01*
+M02*
