@@ -1,0 +1,30 @@
+{
+  "url": "https://worldfamouselectronics.github.io/PulseSensorPlayground/webserial-explainer/",
+  "observed": "2026-09-10",
+  "examples": [
+    {
+      "color": "#51cf66",
+      "excerpt": "nd 0.3s;\n    }\n    \n    .status-dot.connected { background: #51cf66; }\n    \n    button {\n      padding: 8px 16px;\n      backgro"
+    },
+    {
+      "color": "#64c8ff",
+      "excerpt": "value { color: #ffaa44; }\n    .var-box.beat { border-color: #64c8ff; }\n    .var-box.beat .value { color: #64c8ff; }\n    \n    .h"
+    },
+    {
+      "color": "#ffaa44",
+      "excerpt": ".value { color: #44ff44; }\n    .var-box.ibi { border-color: #ffaa44; }\n    .var-box.ibi .value { color: #ffaa44; }\n    .var-box"
+    },
+    {
+      "color": "#ff6b6b",
+      "excerpt": "   \n    button {\n      padding: 8px 16px;\n      background: #ff6b6b;\n      color: white;\n      border: none;\n      border-radiu"
+    },
+    {
+      "color": "#44ff44",
+      "excerpt": ".value { color: #ff6b6b; }\n    .var-box.bpm { border-color: #44ff44; }\n    .var-box.bpm .value { color: #44ff44; }\n    .var-box"
+    },
+    {
+      "color": "#cccccc",
+      "excerpt": "tom: 6px; }\n    .methods .method { font-size: 0.8em; color: #ccc; margin: 3px 0; }\n    .methods .func { color: #ffaa44; font"
+    }
+  ]
+}

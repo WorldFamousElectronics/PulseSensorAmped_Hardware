@@ -1,0 +1,12 @@
+{
+  "module_mapping": {
+    "FILTER": "#51cf66",
+    "AMP + GAIN": "#64c8ff",
+    "BIAS": "#ffaa44",
+    "LED": "#44ff44",
+    "SENSE": "#44ff44",
+    "POWER": "#ff6b6b"
+  },
+  "source": "https://worldfamouselectronics.github.io/PulseSensorPlayground/webserial-explainer/",
+  "note": "User correction: LED sections green; power sections red. Other region colors unchanged."
+}

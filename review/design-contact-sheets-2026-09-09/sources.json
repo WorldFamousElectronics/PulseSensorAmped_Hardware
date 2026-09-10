@@ -1517,6 +1517,29 @@
           "sha256": "de079fb84f2a9d5abef6ac89da3859fe3448ad53fc3d36060df39a4fc7e36684"
         }
       }
+    },
+    {
+      "number": 65,
+      "title": "Green LED and red power board and card",
+      "note": "Colors only; board SVG geometry and non-color PDF operators verified identical to prior versions.",
+      "sources": {
+        "board": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/led-green-power-red-2026-09-10/led-green-power-red-05-back.svg",
+          "sha256": "6ef343c6eba4b296df2934121f90d4fff0f1284aaec84463cb2d25d4f82aa610"
+        },
+        "card": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/led-green-power-red-2026-09-10/output/pdf/led-green-power-red-retail-purchase-card.pdf",
+          "sha256": "33883b66ccb67e44e0b9a316741572dd4ed10052846865cc0ccedd2804141d70"
+        },
+        "palette": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/led-green-power-red-2026-09-10/palette.json",
+          "sha256": "df127f7b2ff6987f07d97aa6a975bbb7875128de99f3ab815e7b4dd63d94e0a4"
+        },
+        "overview": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/led-green-power-red-2026-09-10/led-green-power-red-overview.png",
+          "sha256": "b7607d2de4ee7f1a9f4184a18c0b919cbb25e6c18f4fc7c22adc0572a34c36ca"
+        }
+      }
     }
   ],
   "append_2026_09_09": {
