@@ -130,3 +130,7 @@ Original sheets 01–09 remain unchanged. This appendix adds corrected teaching 
 ## Dotted module alternative — 2026-09-10
 
 [Sheet 24](sheet-24.png) compares accepted color-10 with straight solid-color functional areas with black dotted boundaries. [Vector study and revision record](../module-outlines-2026-09-10/README.md). No hardware changes.
+
+## Full-color full schematic retail purchase card — 2026-09-10
+
+[Sheet 25](sheet-25.png) adds a separate 4-inch card with the complete circuit and a parts schedule. [Print files, source and preserved draft](../full-color-retail-card-2026-09-10/README.md). The first PCB/BOM card and all hardware remain unchanged.

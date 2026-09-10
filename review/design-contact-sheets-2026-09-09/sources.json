@@ -1448,6 +1448,29 @@
           "sha256": "5e9f44ec90026664dc27feff50090297273c9352a9dddd6c02d2e6bda32e81c5"
         }
       }
+    },
+    {
+      "number": 62,
+      "title": "Full-color full schematic retail purchase card",
+      "note": "Separate packaging card; continuous circuit and parts schedule. Original PCB/BOM card retained.",
+      "sources": {
+        "face_a": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/full-color-retail-card-2026-09-10/output/card-1.png",
+          "sha256": "7fdf6e9f03949898697e676112632151dfc8eb831013f30760cdca3a31e40f7c"
+        },
+        "face_b": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/full-color-retail-card-2026-09-10/output/card-2.png",
+          "sha256": "1c065f5a21d357c55f1b9680cd11ad3be91954393b31d4f7581873fe2b508fc0"
+        },
+        "pdf": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/full-color-retail-card-2026-09-10/output/pdf/full-color-full-schematic-retail-purchase-card.pdf",
+          "sha256": "14050b96df3f63985d87ea12f22edc341d2ccff2a1f376d62cc21a49ed552dbd"
+        },
+        "editable_source": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/full-color-retail-card-2026-09-10/build_card.py",
+          "sha256": "9d784dae42b3efffb52ad4b4e9ae18272e9ab4de92a8a3716c88891a61bfe09c"
+        }
+      }
     }
   ],
   "append_2026_09_09": {
