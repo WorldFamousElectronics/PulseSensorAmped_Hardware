@@ -1,0 +1,19 @@
+{
+  "board_palette": {
+    "FILTER": "#c0c0c0",
+    "AMP + GAIN": "#000000",
+    "BIAS": "#e7ddc8",
+    "LED": "#44ff44",
+    "SENSE": "#ffffff",
+    "POWER": "#ff5a5f"
+  },
+  "card_palette": {
+    "FILTER": "#c0c0c0",
+    "AMP + GAIN": "#c0c0c0",
+    "BIAS": "#e7ddc8",
+    "LED": "#44ff44",
+    "SENSE": "#ffffff",
+    "POWER": "#ff5a5f"
+  },
+  "notes": "PulseSensor red #FF5A5F; WebSerial LED green #44FF44; neutral gray and chosen beige. Card amplifier background uses gray, with black reserved for the circuit and text to keep the existing drawing readable."
+}

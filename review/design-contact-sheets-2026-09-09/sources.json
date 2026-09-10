@@ -1563,6 +1563,29 @@
           "sha256": "8bdcfd0f341d2ac1fa46b6bae332c18d12ecf7950356c6bba5da816aa4ffb324"
         }
       }
+    },
+    {
+      "number": 67,
+      "title": "Six-color brand board and retail card",
+      "note": "Colors only; Layout retained; board label fills adapt to dark and light regions.",
+      "sources": {
+        "board": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/six-color-brand-2026-09-10/six-color-07-back.svg",
+          "sha256": "ee9128bbbce64d0ae86216d0ae8cd5c73fa6f096d881d9c8b2db2cd3316fd555"
+        },
+        "card": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/six-color-brand-2026-09-10/output/pdf/six-color-retail-purchase-card.pdf",
+          "sha256": "b07ab7c9e4f2013c723c28d495916f400b48fa1d70f83072da086ca3ca02d362"
+        },
+        "palette": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/six-color-brand-2026-09-10/palette.json",
+          "sha256": "d32d285c10b52880f1b5c71a9ad5bdd679412e586b65c9928117fd49e1ef1064"
+        },
+        "overview": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/six-color-brand-2026-09-10/six-color-overview.png",
+          "sha256": "04c49208e18a579c99643be9e7f79217ea3d6df6dbc9a6a44f87b16a27706262"
+        }
+      }
     }
   ],
   "append_2026_09_09": {

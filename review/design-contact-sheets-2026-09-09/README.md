@@ -150,3 +150,7 @@ Original sheets 01–09 remain unchanged. This appendix adds corrected teaching 
 ## Quiet engineering trial — 2026-09-10
 
 [Sheet 29](sheet-29.png) shows muted board colors and matching pale card tints on the board and both purchase-card faces. [Palette evidence, print PDFs and color-only checks](../quiet-engineering-2026-09-10/README.md). All earlier geometry and text preserved.
+
+## Six-color brand trial — 2026-09-10
+
+[Sheet 30](sheet-30.png) shows white, black, red, green, gray and beige on the board and both purchase-card faces. [Palette evidence, print PDFs and color-only checks](../six-color-brand-2026-09-10/README.md). All earlier geometry and text preserved.
