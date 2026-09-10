@@ -1,0 +1,52 @@
+[
+  {
+    "color": "#000000",
+    "source_file": "theme.css",
+    "excerpt": "dfn{font-style:italic}h1,.h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;"
+  },
+  {
+    "color": "#333333",
+    "source_file": "theme.css",
+    "excerpt": "n,input[type=submit],label[for]{cursor:pointer}optgroup{font-weight:700}option{color:#333;background-color:#fff}[tabindex=\"-1\"]:focus{outline:none}.clearfix{*zoom: "
+  },
+  {
+    "color": "#555555",
+    "source_file": "theme.css",
+    "excerpt": ":8px;right:8px;z-index:1044}.mfp-preloader a{color:#333}.mfp-preloader a:hover{color:#555}.mfp-s-ready .mfp-preloader,.mfp-s-error .mfp-content{display:none}button."
+  },
+  {
+    "color": "#b3b3b3",
+    "source_file": "theme.css",
+    "excerpt": "em}.giftcard__tooltip-label small{text-transform:uppercase;letter-spacing:.1em;color:#b3b3b3;font-size:.875em}.giftcard__qr-code img{padding:0;border:1px solid #ff5a5f"
+  },
+  {
+    "color": "#c0c0c0",
+    "source_file": "theme.css",
+    "excerpt": "search]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea"
+  },
+  {
+    "color": "#dadada",
+    "source_file": "homepage.html",
+    "excerpt": "_carousel_full_star_background\":\"#108474\",\"featured_carousel_empty_star_background\":\"#dadada\",\"featured_carousel_vertical_theme_background\":\"#f9fafb\",\"featured_carouse"
+  },
+  {
+    "color": "#eeeeee",
+    "source_file": "homepage.html",
+    "excerpt": "_image_size\":0,\"featured_carousel_image_height\":250,\"featured_carousel_arrow_color\":\"#eeeeee\",\"verified_count_badge_style\":\"branded\",\"verified_count_badge_orientation\""
+  },
+  {
+    "color": "#ff5a5f",
+    "source_file": "theme.css",
+    "excerpt": "\";display:block;position:absolute;top:0;left:15px;right:15px;border-bottom:1px solid #ff5a5f}}img{max-width:100%}svg:not(:root){overflow:hidden}.video-wrapper{position"
+  },
+  {
+    "color": "#fff0f0",
+    "source_file": "theme.css",
+    "excerpt": ",textarea.input--error,select.input--error{border:1px solid #b62b2b;background-color:#fff0f0;color:#b62b2b}input.input--error::-webkit-input-placeholder,textarea.input"
+  },
+  {
+    "color": "#ffffff",
+    "source_file": "theme.css",
+    "excerpt": "abel[for]{cursor:pointer}optgroup{font-weight:700}option{color:#333;background-color:#fff}[tabindex=\"-1\"]:focus{outline:none}.clearfix{*zoom: 1}.clearfix:after{cont"
+  }
+]

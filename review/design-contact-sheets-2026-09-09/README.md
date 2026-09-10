@@ -134,3 +134,7 @@ Original sheets 01–09 remain unchanged. This appendix adds corrected teaching 
 ## Full-color full schematic retail purchase card — 2026-09-10
 
 [Sheet 25](sheet-25.png) adds a separate 4-inch card with the complete circuit and a parts schedule. [Print files, source and preserved draft](../full-color-retail-card-2026-09-10/README.md). The first PCB/BOM card and all hardware remain unchanged.
+
+## Brand unification — 2026-09-10
+
+[Sheet 26](sheet-26.png) shows matching website-sourced salmon and neutral colors on the board and both purchase-card faces. [Palette evidence, print PDFs and color-only checks](../brand-unification-2026-09-10/README.md). All earlier geometry and text preserved.

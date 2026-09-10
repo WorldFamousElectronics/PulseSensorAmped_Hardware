@@ -1,0 +1,29 @@
+{
+  "verified_date": "2026-09-10",
+  "classification": "DEVELOPMENT appearance and packaging review",
+  "primary_accent": "#ff5a5f",
+  "module_mapping": {
+    "FILTER": "#c0c0c0",
+    "AMP + GAIN": "#b3b3b3",
+    "BIAS": "#fff0f0",
+    "LED": "#ff5a5f",
+    "SENSE": "#eeeeee",
+    "POWER": "#dadada"
+  },
+  "ink": "#000000",
+  "secondary_ink": "#333333",
+  "paper": "#ffffff",
+  "component_preview": {
+    "metal": "#c0c0c0",
+    "body": "#555555",
+    "light_body": "#ffffff"
+  },
+  "source": "https://pulsesensor.com/cdn/shop/t/51/assets/theme.scss.css?v=170999498476908761131787148316",
+  "pages_reviewed": [
+    "https://pulsesensor.com/",
+    "https://pulsesensor.com/pages/lab",
+    "https://pulsesensor.com/pages/pulsesensor-research",
+    "https://pulsesensor.com/pages/pulsesensor-ppg-research-lab"
+  ],
+  "note": "Colors observed in live website CSS, not an asserted formal brand standards document. No non-neutral research accent added; salmon, pale pink and neutrals unify both pieces."
+}

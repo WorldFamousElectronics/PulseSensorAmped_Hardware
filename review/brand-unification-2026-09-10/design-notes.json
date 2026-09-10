@@ -1,0 +1,18 @@
+{
+  "classification": "DEVELOPMENT appearance study",
+  "source": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-10",
+  "modules": {
+    "FILTER": "#c0c0c0",
+    "AMP + GAIN": "#b3b3b3",
+    "BIAS": "#fff0f0",
+    "LED": "#ff5a5f",
+    "SENSE": "#eeeeee",
+    "POWER": "#dadada"
+  },
+  "boundary_dot_diameter_mm": 0.14,
+  "boundary_dot_pitch_mm": 0.28,
+  "preserved": "Exact native component bodies, pad artwork, white labels, + / - marks. No CAD edits.",
+  "meaning": "Color is functional group, not voltage or net. SENSE includes input coupling C2.",
+  "removed": "Puzzle tabs and solid seams. Dots now mark module boundaries, not signal paths.",
+  "print_status": "Visual study; supplier separations and print review not yet prepared."
+}

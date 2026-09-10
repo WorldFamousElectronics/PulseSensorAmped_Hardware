@@ -1471,6 +1471,29 @@
           "sha256": "9d784dae42b3efffb52ad4b4e9ae18272e9ab4de92a8a3716c88891a61bfe09c"
         }
       }
+    },
+    {
+      "number": 63,
+      "title": "PulseSensor brand-unified board and purchase card",
+      "note": "Colors only; board SVG geometry and non-color PDF operators verified identical to prior versions.",
+      "sources": {
+        "board": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/brand-unification-2026-09-10/brand-03-back.svg",
+          "sha256": "cb4615ebd613ae952284413ae4178319a49c90fb6fdf7e01e46e43f5df94b89a"
+        },
+        "card": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/brand-unification-2026-09-10/output/pdf/brand-full-color-full-schematic-retail-purchase-card.pdf",
+          "sha256": "c7ff3a4288cbe8cf0cf477d3961499364b644d38d4e0d51c2f61edbb1c8d3e6c"
+        },
+        "palette": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/brand-unification-2026-09-10/palette.json",
+          "sha256": "df4c0fccb392549db05461a8b344b6eb15e67634cfd68e1d5320f1626f9b7c72"
+        },
+        "overview": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/brand-unification-2026-09-10/brand-overview.png",
+          "sha256": "6ceba0d9a68b15cf35a3d32024a0e783e5c8ae79edf67fae9ef8dc41ad756838"
+        }
+      }
     }
   ],
   "append_2026_09_09": {
