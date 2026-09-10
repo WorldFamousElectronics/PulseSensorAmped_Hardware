@@ -1,0 +1,58 @@
+{
+  "board_palette": {
+    "FILTER": "#286c73",
+    "AMP + GAIN": "#535e7e",
+    "BIAS": "#75627f",
+    "LED": "#39745a",
+    "SENSE": "#657079",
+    "POWER": "#9e4b50"
+  },
+  "card_palette": {
+    "FILTER": "#cbd6d1",
+    "AMP + GAIN": "#d4d4d4",
+    "BIAS": "#dbd4d4",
+    "LED": "#cfd8cc",
+    "SENSE": "#d7d7d3",
+    "POWER": "#e3d0ca"
+  },
+  "contrast": {
+    "FILTER": {
+      "board_white_label": 6.03,
+      "board_black_boundary": 3.48,
+      "card_main_ink": 9.77,
+      "card_secondary_ink": 5.96
+    },
+    "AMP + GAIN": {
+      "board_white_label": 6.42,
+      "board_black_boundary": 3.27,
+      "card_main_ink": 9.83,
+      "card_secondary_ink": 5.99
+    },
+    "BIAS": {
+      "board_white_label": 5.51,
+      "board_black_boundary": 3.81,
+      "card_main_ink": 9.98,
+      "card_secondary_ink": 6.08
+    },
+    "LED": {
+      "board_white_label": 5.5,
+      "board_black_boundary": 3.82,
+      "card_main_ink": 9.96,
+      "card_secondary_ink": 6.07
+    },
+    "SENSE": {
+      "board_white_label": 5.06,
+      "board_black_boundary": 4.15,
+      "card_main_ink": 10.1,
+      "card_secondary_ink": 6.16
+    },
+    "POWER": {
+      "board_white_label": 5.87,
+      "board_black_boundary": 3.58,
+      "card_main_ink": 9.81,
+      "card_secondary_ink": 5.98
+    }
+  },
+  "method": "Card tints blend 20% board RGB with 80% warm paper RGB. Design-selected muted colors, not claimed exact website swatches or approved supplier ink colors.",
+  "limitations": "Calculated sRGB contrast is a screen preflight; does not certify tiny PCB labels or printed accessibility."
+}

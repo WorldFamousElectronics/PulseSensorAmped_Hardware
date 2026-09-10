@@ -1540,6 +1540,29 @@
           "sha256": "b7607d2de4ee7f1a9f4184a18c0b919cbb25e6c18f4fc7c22adc0572a34c36ca"
         }
       }
+    },
+    {
+      "number": 66,
+      "title": "Quiet engineering board and retail card",
+      "note": "Colors only; board SVG geometry and non-color PDF operators verified identical to prior versions.",
+      "sources": {
+        "board": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/quiet-engineering-2026-09-10/quiet-06-back.svg",
+          "sha256": "3ff4ac34a1660a6f5997e4b92ec437cf6b49f815e4a43ccd4d91424f4feb75ec"
+        },
+        "card": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/quiet-engineering-2026-09-10/output/pdf/quiet-engineering-retail-purchase-card.pdf",
+          "sha256": "4bcde6c103869401e070604552b2281de65ec6ea341470d3c4d4be96ad54b696"
+        },
+        "palette": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/quiet-engineering-2026-09-10/palette.json",
+          "sha256": "9a354a5b6f1ca1a48c9120f2dc98eac144abd480c9948ba64fd8e1446877b4bd"
+        },
+        "overview": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/quiet-engineering-2026-09-10/quiet-overview.png",
+          "sha256": "8bdcfd0f341d2ac1fa46b6bae332c18d12ecf7950356c6bba5da816aa4ffb324"
+        }
+      }
     }
   ],
   "append_2026_09_09": {

@@ -1,0 +1,74 @@
+{
+  "R1": [
+    "LED_K",
+    "GND"
+  ],
+  "R2": [
+    "U1_IOUT",
+    "GND"
+  ],
+  "R3": [
+    "VREF",
+    "GND"
+  ],
+  "R4": [
+    "VDD_IN",
+    "VREF"
+  ],
+  "R5": [
+    "FILTER_STAGE_2",
+    "AMP_INVERTING"
+  ],
+  "R6": [
+    "AMP_INVERTING",
+    "SIGNAL"
+  ],
+  "C1": [
+    "FILTER_STAGE_1",
+    "GND"
+  ],
+  "C2": [
+    "U1_IOUT",
+    "FILTER_STAGE_1"
+  ],
+  "C3": [
+    "FILTER_STAGE_1",
+    "FILTER_STAGE_2"
+  ],
+  "C4": [
+    "FILTER_STAGE_2",
+    "VREF"
+  ],
+  "C5": [
+    "VDD_IN",
+    "GND"
+  ],
+  "D1": [
+    "LED_K",
+    "VDD_IN"
+  ],
+  "D2": [
+    "VDD_PROTECTED",
+    "VDD_IN"
+  ],
+  "J1": [
+    "GND",
+    "VDD_IN",
+    "SIGNAL"
+  ],
+  "U1": {
+    "1": "VDD_PROTECTED",
+    "2": "NC2",
+    "3": "NC3",
+    "4": "GND",
+    "5": "NC5",
+    "6": "U1_IOUT"
+  },
+  "U2": [
+    "SIGNAL",
+    "GND",
+    "VREF",
+    "AMP_INVERTING",
+    "VDD_PROTECTED"
+  ]
+}

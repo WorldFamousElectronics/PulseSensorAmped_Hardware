@@ -1,0 +1,29 @@
+{
+  "electrical_terminal_map_matches_native_netlist": true,
+  "terminals_including_NC": 40,
+  "diagram_review": "Terminal mapping verified against native netlist; drawn connections visually inspected. Continuous signal, feedback and VREF wiring visually checked. Standard matching rail and OUT labels connect remaining common nodes. All U1, U2 and J1 pins shown, including three intentional U1 no-connects. This checks the independently transcribed terminal map; it is not automated PDF wire extraction.",
+  "components": "All 16 references shown. R1 described by function, with no invented resistance.",
+  "outputs": {
+    "quiet-engineering-retail-purchase-card.pdf": {
+      "pages": 2,
+      "media_box_pt": [
+        288,
+        288
+      ],
+      "sha256": "4bcde6c103869401e070604552b2281de65ec6ea341470d3c4d4be96ad54b696"
+    },
+    "quiet-engineering-retail-purchase-card-bleed.pdf": {
+      "pages": 2,
+      "media_box_pt": [
+        306,
+        306
+      ],
+      "sha256": "2b9656b43ffdb1252ee411bf14381f94fc41286092d45f6d65a872964f25599c"
+    }
+  },
+  "color_only": {
+    "board_svg_geometry_identical": true,
+    "card_noncolor_pdf_operators_identical": true,
+    "palette_source": "palette.json"
+  }
+}

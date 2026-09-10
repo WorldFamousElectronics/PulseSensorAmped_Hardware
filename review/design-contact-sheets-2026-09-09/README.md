@@ -146,3 +146,7 @@ Original sheets 01–09 remain unchanged. This appendix adds corrected teaching 
 ## WebSerial color iteration — 2026-09-10
 
 [Sheet 28](sheet-28.png) shows matching WebSerial accent colors on the board and both purchase-card faces. [Palette evidence, print PDFs and color-only checks](../led-green-power-red-2026-09-10/README.md). All earlier geometry and text preserved.
+
+## Quiet engineering trial — 2026-09-10
+
+[Sheet 29](sheet-29.png) shows muted board colors and matching pale card tints on the board and both purchase-card faces. [Palette evidence, print PDFs and color-only checks](../quiet-engineering-2026-09-10/README.md). All earlier geometry and text preserved.
