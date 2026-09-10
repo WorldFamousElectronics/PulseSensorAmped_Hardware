@@ -1,0 +1,24 @@
+{
+  "electrical_terminal_map_matches_native_netlist": true,
+  "connected_terminals": 37,
+  "diagram_review": "Terminal mapping verified against native netlist; drawn connections visually inspected. IC supplies use named labels; unused U1 pins omitted.",
+  "bom": "All 16 component references included; equal-value passives grouped. R1 described by function, with no invented resistance.",
+  "outputs": {
+    "PulseSensor-4x4-card.pdf": {
+      "pages": 2,
+      "media_box_pt": [
+        288,
+        288
+      ],
+      "sha256": "579e79c022d240151552a32c43c084c43f91fe92ff1452f4192fa95aed416dc3"
+    },
+    "PulseSensor-4x4-card-bleed.pdf": {
+      "pages": 2,
+      "media_box_pt": [
+        306,
+        306
+      ],
+      "sha256": "cb82f0cb299561b524012897318ab1d87e36681eb83f34e7e66f7a7c0d9a1068"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "trim_inches": [
+    4,
+    4
+  ],
+  "bleed_inches": 0.125,
+  "faces": 2,
+  "smallest_type_pt": 6.5,
+  "body_type_pt": "7.5-10",
+  "board_image_source": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/power-color-2026-09-09/color-10/back.png",
+  "illustration": "None; hardware-only per user correction"
+}

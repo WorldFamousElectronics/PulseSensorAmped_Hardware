@@ -114,3 +114,7 @@ Original sheets 01–09 remain unchanged. This appendix adds corrected teaching 
 ### Final selected comparison — sheet 20
 
 [Sheet 20](sheet-20.png) adds the final color-10 candidate. Color-09 on sheet 19 is superseded; its brown optical-front rendering is a retained renderer defect, not intended solder mask. Color-10 still encounters KiCad mixed-mask rendering limitations; the shared black optical-face design is shown from verified mono-08.
+
+## Packaging postcard milestone — 2026-09-10
+
+[Sheet 21](sheet-21.png) shows both 4-inch insert faces: PCB/reference BOM and matching schematic. [Print files and source](../postcard-insert-2026-09-10/README.md). The color-10 board back is accepted as a major milestone; front board graphics are deferred. No hardware geometry changed.

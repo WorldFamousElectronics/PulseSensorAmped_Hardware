@@ -1356,6 +1356,29 @@
           "sha256": "80cdd2f71dfcedfa1b59bde03ce9529322194e6518c9730f48c036302915b2a3"
         }
       }
+    },
+    {
+      "number": 58,
+      "title": "4-inch hardware postcard with BOM",
+      "note": "Two packaging faces, not PCB faces. Native PCB artwork unchanged.",
+      "sources": {
+        "face_a": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/postcard-insert-2026-09-10/output/card-1.png",
+          "sha256": "8265c7bc533c66071d2ec232eef33a59c0d2ce6366c23c35aae35c2a38905b23"
+        },
+        "face_b": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/postcard-insert-2026-09-10/output/card-2.png",
+          "sha256": "8d4f777d66dcb79a23c2c787a58fd18693a83de13d978652007b165c1bce738e"
+        },
+        "pdf": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/postcard-insert-2026-09-10/output/PulseSensor-4x4-card.pdf",
+          "sha256": "579e79c022d240151552a32c43c084c43f91fe92ff1452f4192fa95aed416dc3"
+        },
+        "editable_source": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/postcard-insert-2026-09-10/build_postcard.py",
+          "sha256": "c7fcc6c6fb3c192c6ed5c1af0023071c47c8f80e6eb3958def1adb61c632270b"
+        }
+      }
     }
   ],
   "append_2026_09_09": {
