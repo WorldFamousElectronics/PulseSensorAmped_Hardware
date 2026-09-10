@@ -1,0 +1,24 @@
+{
+  "electrical_terminal_map_matches_native_netlist": true,
+  "terminals_including_NC": 40,
+  "diagram_review": "Terminal mapping verified against native netlist; drawn connections visually inspected. All U1, U2 and J1 pins shown, including three intentional U1 no-connects. This checks the independently transcribed terminal map; it is not automated PDF wire extraction.",
+  "components": "All 16 references shown. R1 described by function, with no invented resistance.",
+  "outputs": {
+    "PulseSensor-complete-schematic-4x4.pdf": {
+      "pages": 2,
+      "media_box_pt": [
+        288,
+        288
+      ],
+      "sha256": "d9771f04290d3e8657d9f720b88d80db8498d80e1656f640ea9e815fdbb35d0e"
+    },
+    "PulseSensor-complete-schematic-4x4-bleed.pdf": {
+      "pages": 2,
+      "media_box_pt": [
+        306,
+        306
+      ],
+      "sha256": "4d79dded531d25a5192d0d843d149aa8dda530c9d1061f9795cae8454dce829f"
+    }
+  }
+}

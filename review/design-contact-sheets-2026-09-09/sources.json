@@ -1379,6 +1379,29 @@
           "sha256": "c7fcc6c6fb3c192c6ed5c1af0023071c47c8f80e6eb3958def1adb61c632270b"
         }
       }
+    },
+    {
+      "number": 59,
+      "title": "Complete schematic companion postcard",
+      "note": "Separate packaging card; complete circuit and reading guide. Original PCB/BOM card retained.",
+      "sources": {
+        "face_a": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/schematic-companion-2026-09-10/output/card-1.png",
+          "sha256": "a899652d22b082549e46cb314964838f7921620aaf591eec03fb261138ae3214"
+        },
+        "face_b": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/schematic-companion-2026-09-10/output/card-2.png",
+          "sha256": "d6490730a168ccde9cd1c2f4f7041f1adc71dfe34695fcee6dfadb09b44b0ab1"
+        },
+        "pdf": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/schematic-companion-2026-09-10/output/pdf/PulseSensor-complete-schematic-4x4.pdf",
+          "sha256": "d9771f04290d3e8657d9f720b88d80db8498d80e1656f640ea9e815fdbb35d0e"
+        },
+        "editable_source": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/schematic-companion-2026-09-10/build_companion.py",
+          "sha256": "d4cd444b7286c5b685ece6ac598bf783326db92f7df0fa991e7381ba475c7b35"
+        }
+      }
     }
   ],
   "append_2026_09_09": {

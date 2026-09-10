@@ -118,3 +118,7 @@ Original sheets 01–09 remain unchanged. This appendix adds corrected teaching 
 ## Packaging postcard milestone — 2026-09-10
 
 [Sheet 21](sheet-21.png) shows both 4-inch insert faces: PCB/reference BOM and matching schematic. [Print files and source](../postcard-insert-2026-09-10/README.md). The color-10 board back is accepted as a major milestone; front board graphics are deferred. No hardware geometry changed.
+
+## Complete schematic companion — 2026-09-10
+
+[Sheet 22](sheet-22.png) adds a separate 4-inch card with the complete circuit and a six-part reading guide. [Print files, source and preserved draft](../schematic-companion-2026-09-10/README.md). The first PCB/BOM card and all hardware remain unchanged.
