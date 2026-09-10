@@ -1,0 +1,12 @@
+{
+  "module_mapping": {
+    "FILTER": "#51cf66",
+    "AMP + GAIN": "#64c8ff",
+    "BIAS": "#ffaa44",
+    "LED": "#ff6b6b",
+    "SENSE": "#44ff44",
+    "POWER": "#cccccc"
+  },
+  "source": "https://worldfamouselectronics.github.io/PulseSensorPlayground/webserial-explainer/",
+  "note": "Exact WebSerial CSS colors. Their reassignment to PCB functional regions is design interpretation, not equivalence to dashboard measurements."
+}

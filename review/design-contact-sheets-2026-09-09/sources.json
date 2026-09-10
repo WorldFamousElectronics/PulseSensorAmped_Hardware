@@ -1494,6 +1494,29 @@
           "sha256": "6ceba0d9a68b15cf35a3d32024a0e783e5c8ae79edf67fae9ef8dc41ad756838"
         }
       }
+    },
+    {
+      "number": 64,
+      "title": "WebSerial bright board and purchase card",
+      "note": "Colors only; board SVG geometry and non-color PDF operators verified identical to prior versions.",
+      "sources": {
+        "board": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/webserial-palette-2026-09-10/webserial-04-back.svg",
+          "sha256": "ef63800143a768d79b6b11976d5f257fa22fa79e9aab16fc8f38ae05cbb20eef"
+        },
+        "card": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/webserial-palette-2026-09-10/output/pdf/webserial-full-color-full-schematic-retail-purchase-card.pdf",
+          "sha256": "234b853da03f588f23ee5d04ce2b7ddd17c83a94cd5b55cc5360d7c34002b8de"
+        },
+        "palette": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/webserial-palette-2026-09-10/palette.json",
+          "sha256": "5ca7be9fe4bde0d877adbd2f235906be2ddb9693d66f139d4a35bc354655be4d"
+        },
+        "overview": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/webserial-palette-2026-09-10/webserial-overview.png",
+          "sha256": "de079fb84f2a9d5abef6ac89da3859fe3448ad53fc3d36060df39a4fc7e36684"
+        }
+      }
     }
   ],
   "append_2026_09_09": {
