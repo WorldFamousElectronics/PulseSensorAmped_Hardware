@@ -122,3 +122,7 @@ Original sheets 01–09 remain unchanged. This appendix adds corrected teaching 
 ## Complete schematic companion — 2026-09-10
 
 [Sheet 22](sheet-22.png) adds a separate 4-inch card with the complete circuit and a six-part reading guide. [Print files, source and preserved draft](../schematic-companion-2026-09-10/README.md). The first PCB/BOM card and all hardware remain unchanged.
+
+## Puzzle module alternative — 2026-09-10
+
+[Sheet 23](sheet-23.png) compares accepted color-10 with interlocking solid-color functional areas. [Vector study and revision record](../puzzle-modules-2026-09-10/README.md). No hardware changes.
