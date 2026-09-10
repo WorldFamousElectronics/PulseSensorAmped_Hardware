@@ -1425,6 +1425,29 @@
           "sha256": "749d2e4a65db8fe2ba8d596542f215fb65d89841f3114c936677412a84137986"
         }
       }
+    },
+    {
+      "number": 61,
+      "title": "Dotted module outline iteration",
+      "note": "New vector appearance study; color-10 and CAD retained. Puzzle tabs removed; black dots mark region boundaries.",
+      "sources": {
+        "back": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/module-outlines-2026-09-10/modules-02-back.png",
+          "sha256": "4d0bdc0be852f7556e340ff5069c303724bb3c2956188670a6fc798b62d26ea4"
+        },
+        "vector": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/module-outlines-2026-09-10/modules-02-back.svg",
+          "sha256": "21803d14425fd266b7a31d32c3e895b2715ab09a5553cb9cb22801e9f68ccce9"
+        },
+        "comparison": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/module-outlines-2026-09-10/comparison.png",
+          "sha256": "c5e30cad4701ae0b0b61f69835fcb9eefb04682432ebee85beae389b28c62f3c"
+        },
+        "source": {
+          "path": "/Users/PulsesensorCorp/.codex/worktrees/c12a/PulseSensor Amped Hardware/review/module-outlines-2026-09-10/build_modules.py",
+          "sha256": "5e9f44ec90026664dc27feff50090297273c9352a9dddd6c02d2e6bda32e81c5"
+        }
+      }
     }
   ],
   "append_2026_09_09": {

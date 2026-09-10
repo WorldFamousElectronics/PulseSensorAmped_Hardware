@@ -126,3 +126,7 @@ Original sheets 01–09 remain unchanged. This appendix adds corrected teaching 
 ## Puzzle module alternative — 2026-09-10
 
 [Sheet 23](sheet-23.png) compares accepted color-10 with interlocking solid-color functional areas. [Vector study and revision record](../puzzle-modules-2026-09-10/README.md). No hardware changes.
+
+## Dotted module alternative — 2026-09-10
+
+[Sheet 24](sheet-24.png) compares accepted color-10 with straight solid-color functional areas with black dotted boundaries. [Vector study and revision record](../module-outlines-2026-09-10/README.md). No hardware changes.
